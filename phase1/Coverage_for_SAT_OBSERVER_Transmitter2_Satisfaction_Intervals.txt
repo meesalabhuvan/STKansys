@@ -1,0 +1,27 @@
+                                                                               20 Nov 2025 18:26:44
+Satisfaction Intervals
+
+
+            FOM Properties           
+-------------------------------------
+Simple Coverage FOM                  
+FOM value range check is not enabled.
+
+
+
+Satisfaction Intervals for SAT_OBSERVER-Transmitter2
+----------------------------------------------------
+
+                    Interval Start (UTCG)        Interval End (UTCG)      Duration (sec)    Percent
+                  ------------------------    ------------------------    --------------    -------
+                  20 Nov 2025 07:07:19.019    20 Nov 2025 07:20:28.040            789.02       0.91
+                  20 Nov 2025 17:54:11.648    20 Nov 2025 18:06:54.274            762.63       0.88
+                  20 Nov 2025 19:31:49.718    20 Nov 2025 19:42:40.879            651.16       0.75
+                  21 Nov 2025 05:59:18.094    21 Nov 2025 06:11:16.889            718.80       0.83
+
+Statistics
+----------
+Min Duration      20 Nov 2025 19:31:49.718    20 Nov 2025 19:42:40.879            651.16       0.75
+Max Duration      20 Nov 2025 07:07:19.019    20 Nov 2025 07:20:28.040            789.02       0.91
+Total Duration                                                                   2921.60           
+Total Percent                                                                                  3.38

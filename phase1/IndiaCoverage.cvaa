@@ -1,0 +1,6505 @@
+COV 6.0
+
+EpochTime		 9 Nov 2025 00:00:00.000000
+
+NumberOfAssets		 0
+
+NumberOfRegions		 112
+
+RegionNumber		 1
+NumPtsInRegion		 9
+
+PointNumber		 0
+Lat		 -9.9317545530153506e-01
+Lon		  8.0553657784353666e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 1
+Lat		 -9.9317545530153506e-01
+Lon		  2.4166097335306100e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 2
+Lat		 -9.9317545530153506e-01
+Lon		  4.0276828892176830e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 3
+Lat		 -8.8513126351140992e-01
+Lon		  8.0553657784353666e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 4
+Lat		 -8.8513126351140992e-01
+Lon		  2.4166097335306100e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 5
+Lat		 -8.8513126351140992e-01
+Lon		  4.0276828892176830e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 6
+Lat		 -7.7708707172128477e-01
+Lon		  8.0553657784353666e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 7
+Lat		 -7.7708707172128477e-01
+Lon		  2.4166097335306100e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 8
+Lat		 -7.7708707172128477e-01
+Lon		  4.0276828892176830e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 2
+NumPtsInRegion		 9
+
+PointNumber		 9
+Lat		 -9.9317545530153506e-01
+Lon		  5.6387560449047558e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 10
+Lat		 -9.9317545530153506e-01
+Lon		  7.2498292005918297e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 11
+Lat		 -9.9317545530153506e-01
+Lon		  8.8609023562789035e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 12
+Lat		 -8.8513126351140992e-01
+Lon		  5.6387560449047558e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 13
+Lat		 -8.8513126351140992e-01
+Lon		  7.2498292005918297e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 14
+Lat		 -8.8513126351140992e-01
+Lon		  8.8609023562789035e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 15
+Lat		 -7.7708707172128477e-01
+Lon		  5.6387560449047558e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 16
+Lat		 -7.7708707172128477e-01
+Lon		  7.2498292005918297e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 17
+Lat		 -7.7708707172128477e-01
+Lon		  8.8609023562789035e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 3
+NumPtsInRegion		 9
+
+PointNumber		 18
+Lat		 -9.9317545530153506e-01
+Lon		  1.0471975511965976e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 19
+Lat		 -9.9317545530153506e-01
+Lon		  1.2083048667653049e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 20
+Lat		 -9.9317545530153506e-01
+Lon		  1.3694121823340122e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 21
+Lat		 -8.8513126351140992e-01
+Lon		  1.0471975511965976e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 22
+Lat		 -8.8513126351140992e-01
+Lon		  1.2083048667653049e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 23
+Lat		 -8.8513126351140992e-01
+Lon		  1.3694121823340122e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 24
+Lat		 -7.7708707172128477e-01
+Lon		  1.0471975511965976e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 25
+Lat		 -7.7708707172128477e-01
+Lon		  1.2083048667653049e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 26
+Lat		 -7.7708707172128477e-01
+Lon		  1.3694121823340122e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 4
+NumPtsInRegion		 9
+
+PointNumber		 27
+Lat		 -9.9317545530153506e-01
+Lon		  1.5305194979027197e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 28
+Lat		 -9.9317545530153506e-01
+Lon		  1.6916268134714270e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 29
+Lat		 -9.9317545530153506e-01
+Lon		  1.8527341290401342e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 30
+Lat		 -8.8513126351140992e-01
+Lon		  1.5305194979027197e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 31
+Lat		 -8.8513126351140992e-01
+Lon		  1.6916268134714270e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 32
+Lat		 -8.8513126351140992e-01
+Lon		  1.8527341290401342e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 33
+Lat		 -7.7708707172128477e-01
+Lon		  1.5305194979027197e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 34
+Lat		 -7.7708707172128477e-01
+Lon		  1.6916268134714270e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 35
+Lat		 -7.7708707172128477e-01
+Lon		  1.8527341290401342e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 5
+NumPtsInRegion		 9
+
+PointNumber		 36
+Lat		 -9.9317545530153506e-01
+Lon		  2.0138414446088415e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 37
+Lat		 -9.9317545530153506e-01
+Lon		  2.1749487601775490e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 38
+Lat		 -9.9317545530153506e-01
+Lon		  2.3360560757462565e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 39
+Lat		 -8.8513126351140992e-01
+Lon		  2.0138414446088415e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 40
+Lat		 -8.8513126351140992e-01
+Lon		  2.1749487601775490e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 41
+Lat		 -8.8513126351140992e-01
+Lon		  2.3360560757462565e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 42
+Lat		 -7.7708707172128477e-01
+Lon		  2.0138414446088415e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 43
+Lat		 -7.7708707172128477e-01
+Lon		  2.1749487601775490e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 44
+Lat		 -7.7708707172128477e-01
+Lon		  2.3360560757462565e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 6
+NumPtsInRegion		 9
+
+PointNumber		 45
+Lat		 -9.9317545530153506e-01
+Lon		  2.4971633913149631e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 46
+Lat		 -9.9317545530153506e-01
+Lon		  2.6582707068836706e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 47
+Lat		 -9.9317545530153506e-01
+Lon		  2.8193780224523781e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 48
+Lat		 -8.8513126351140992e-01
+Lon		  2.4971633913149631e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 49
+Lat		 -8.8513126351140992e-01
+Lon		  2.6582707068836706e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 50
+Lat		 -8.8513126351140992e-01
+Lon		  2.8193780224523781e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 51
+Lat		 -7.7708707172128477e-01
+Lon		  2.4971633913149631e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 52
+Lat		 -7.7708707172128477e-01
+Lon		  2.6582707068836706e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 53
+Lat		 -7.7708707172128477e-01
+Lon		  2.8193780224523781e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 7
+NumPtsInRegion		 9
+
+PointNumber		 54
+Lat		 -9.9317545530153506e-01
+Lon		  2.9804853380210856e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 55
+Lat		 -9.9317545530153506e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 56
+Lat		 -9.9317545530153506e-01
+Lon		  3.3026999691585006e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 57
+Lat		 -8.8513126351140992e-01
+Lon		  2.9804853380210856e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 58
+Lat		 -8.8513126351140992e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 59
+Lat		 -8.8513126351140992e-01
+Lon		  3.3026999691585006e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 60
+Lat		 -7.7708707172128477e-01
+Lon		  2.9804853380210856e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 61
+Lat		 -7.7708707172128477e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 62
+Lat		 -7.7708707172128477e-01
+Lon		  3.3026999691585006e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 8
+NumPtsInRegion		 9
+
+PointNumber		 63
+Lat		 -9.9317545530153506e-01
+Lon		  3.4638072847272072e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 64
+Lat		 -9.9317545530153506e-01
+Lon		  3.6249146002959147e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 65
+Lat		 -9.9317545530153506e-01
+Lon		  3.7860219158646222e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 66
+Lat		 -8.8513126351140992e-01
+Lon		  3.4638072847272072e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 67
+Lat		 -8.8513126351140992e-01
+Lon		  3.6249146002959147e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 68
+Lat		 -8.8513126351140992e-01
+Lon		  3.7860219158646222e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 69
+Lat		 -7.7708707172128477e-01
+Lon		  3.4638072847272072e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 70
+Lat		 -7.7708707172128477e-01
+Lon		  3.6249146002959147e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 71
+Lat		 -7.7708707172128477e-01
+Lon		  3.7860219158646222e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 9
+NumPtsInRegion		 9
+
+PointNumber		 72
+Lat		 -9.9317545530153506e-01
+Lon		  3.9471292314333297e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 73
+Lat		 -9.9317545530153506e-01
+Lon		  4.1082365470020372e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 74
+Lat		 -9.9317545530153506e-01
+Lon		  4.2693438625707447e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 75
+Lat		 -8.8513126351140992e-01
+Lon		  3.9471292314333297e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 76
+Lat		 -8.8513126351140992e-01
+Lon		  4.1082365470020372e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 77
+Lat		 -8.8513126351140992e-01
+Lon		  4.2693438625707447e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 78
+Lat		 -7.7708707172128477e-01
+Lon		  3.9471292314333297e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 79
+Lat		 -7.7708707172128477e-01
+Lon		  4.1082365470020372e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 80
+Lat		 -7.7708707172128477e-01
+Lon		  4.2693438625707447e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 10
+NumPtsInRegion		 9
+
+PointNumber		 81
+Lat		 -9.9317545530153506e-01
+Lon		  4.4304511781394513e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 82
+Lat		 -9.9317545530153506e-01
+Lon		  4.5915584937081588e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 83
+Lat		 -9.9317545530153506e-01
+Lon		  4.7526658092768663e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 84
+Lat		 -8.8513126351140992e-01
+Lon		  4.4304511781394513e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 85
+Lat		 -8.8513126351140992e-01
+Lon		  4.5915584937081588e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 86
+Lat		 -8.8513126351140992e-01
+Lon		  4.7526658092768663e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 87
+Lat		 -7.7708707172128477e-01
+Lon		  4.4304511781394513e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 88
+Lat		 -7.7708707172128477e-01
+Lon		  4.5915584937081588e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 89
+Lat		 -7.7708707172128477e-01
+Lon		  4.7526658092768663e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 11
+NumPtsInRegion		 9
+
+PointNumber		 90
+Lat		 -9.9317545530153506e-01
+Lon		  4.9137731248455738e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 91
+Lat		 -9.9317545530153506e-01
+Lon		  5.0748804404142813e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 92
+Lat		 -9.9317545530153506e-01
+Lon		  5.2359877559829888e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 93
+Lat		 -8.8513126351140992e-01
+Lon		  4.9137731248455738e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 94
+Lat		 -8.8513126351140992e-01
+Lon		  5.0748804404142813e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 95
+Lat		 -8.8513126351140992e-01
+Lon		  5.2359877559829888e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 96
+Lat		 -7.7708707172128477e-01
+Lon		  4.9137731248455738e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 97
+Lat		 -7.7708707172128477e-01
+Lon		  5.0748804404142813e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 98
+Lat		 -7.7708707172128477e-01
+Lon		  5.2359877559829888e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 12
+NumPtsInRegion		 9
+
+PointNumber		 99
+Lat		 -9.9317545530153506e-01
+Lon		  5.3970950715516954e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 100
+Lat		 -9.9317545530153506e-01
+Lon		  5.5582023871204029e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 101
+Lat		 -9.9317545530153506e-01
+Lon		  5.7193097026891104e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 102
+Lat		 -8.8513126351140992e-01
+Lon		  5.3970950715516954e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 103
+Lat		 -8.8513126351140992e-01
+Lon		  5.5582023871204029e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 104
+Lat		 -8.8513126351140992e-01
+Lon		  5.7193097026891104e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 105
+Lat		 -7.7708707172128477e-01
+Lon		  5.3970950715516954e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 106
+Lat		 -7.7708707172128477e-01
+Lon		  5.5582023871204029e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 107
+Lat		 -7.7708707172128477e-01
+Lon		  5.7193097026891104e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 13
+NumPtsInRegion		 9
+
+PointNumber		 108
+Lat		 -9.9317545530153506e-01
+Lon		  5.8804170182578170e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 109
+Lat		 -9.9317545530153506e-01
+Lon		  6.0415243338265245e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 110
+Lat		 -9.9317545530153506e-01
+Lon		  6.2026316493952320e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 111
+Lat		 -8.8513126351140992e-01
+Lon		  5.8804170182578170e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 112
+Lat		 -8.8513126351140992e-01
+Lon		  6.0415243338265245e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 113
+Lat		 -8.8513126351140992e-01
+Lon		  6.2026316493952320e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 114
+Lat		 -7.7708707172128477e-01
+Lon		  5.8804170182578170e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 115
+Lat		 -7.7708707172128477e-01
+Lon		  6.0415243338265245e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 116
+Lat		 -7.7708707172128477e-01
+Lon		  6.2026316493952320e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 14
+NumPtsInRegion		 9
+
+PointNumber		 117
+Lat		 -6.6904287993115963e-01
+Lon		  6.1599855952741048e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 118
+Lat		 -6.6904287993115963e-01
+Lon		  1.8479956785822313e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 119
+Lat		 -6.6904287993115963e-01
+Lon		  3.0799927976370522e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 120
+Lat		 -5.6099868814103448e-01
+Lon		  6.1599855952741048e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 121
+Lat		 -5.6099868814103448e-01
+Lon		  1.8479956785822313e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 122
+Lat		 -5.6099868814103448e-01
+Lon		  3.0799927976370522e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 123
+Lat		 -4.5295449635090934e-01
+Lon		  6.1599855952741048e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 124
+Lat		 -4.5295449635090934e-01
+Lon		  1.8479956785822313e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 125
+Lat		 -4.5295449635090934e-01
+Lon		  3.0799927976370522e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 15
+NumPtsInRegion		 9
+
+PointNumber		 126
+Lat		 -6.6904287993115963e-01
+Lon		  4.3119899166918729e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 127
+Lat		 -6.6904287993115963e-01
+Lon		  5.5439870357466936e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 128
+Lat		 -6.6904287993115963e-01
+Lon		  6.7759841548015143e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 129
+Lat		 -5.6099868814103448e-01
+Lon		  4.3119899166918729e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 130
+Lat		 -5.6099868814103448e-01
+Lon		  5.5439870357466936e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 131
+Lat		 -5.6099868814103448e-01
+Lon		  6.7759841548015143e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 132
+Lat		 -4.5295449635090934e-01
+Lon		  4.3119899166918729e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 133
+Lat		 -4.5295449635090934e-01
+Lon		  5.5439870357466936e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 134
+Lat		 -4.5295449635090934e-01
+Lon		  6.7759841548015143e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 16
+NumPtsInRegion		 9
+
+PointNumber		 135
+Lat		 -6.6904287993115963e-01
+Lon		  8.0079812738563361e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 136
+Lat		 -6.6904287993115963e-01
+Lon		  9.2399783929111567e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 137
+Lat		 -6.6904287993115963e-01
+Lon		  1.0471975511965979e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 138
+Lat		 -5.6099868814103448e-01
+Lon		  8.0079812738563361e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 139
+Lat		 -5.6099868814103448e-01
+Lon		  9.2399783929111567e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 140
+Lat		 -5.6099868814103448e-01
+Lon		  1.0471975511965979e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 141
+Lat		 -4.5295449635090934e-01
+Lon		  8.0079812738563361e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 142
+Lat		 -4.5295449635090934e-01
+Lon		  9.2399783929111567e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 143
+Lat		 -4.5295449635090934e-01
+Lon		  1.0471975511965979e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 17
+NumPtsInRegion		 9
+
+PointNumber		 144
+Lat		 -6.6904287993115963e-01
+Lon		  1.1703972631020796e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 145
+Lat		 -6.6904287993115963e-01
+Lon		  1.2935969750075618e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 146
+Lat		 -6.6904287993115963e-01
+Lon		  1.4167966869130439e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 147
+Lat		 -5.6099868814103448e-01
+Lon		  1.1703972631020796e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 148
+Lat		 -5.6099868814103448e-01
+Lon		  1.2935969750075618e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 149
+Lat		 -5.6099868814103448e-01
+Lon		  1.4167966869130439e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 150
+Lat		 -4.5295449635090934e-01
+Lon		  1.1703972631020796e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 151
+Lat		 -4.5295449635090934e-01
+Lon		  1.2935969750075618e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 152
+Lat		 -4.5295449635090934e-01
+Lon		  1.4167966869130439e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 18
+NumPtsInRegion		 9
+
+PointNumber		 153
+Lat		 -6.6904287993115963e-01
+Lon		  1.5399963988185261e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 154
+Lat		 -6.6904287993115963e-01
+Lon		  1.6631961107240083e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 155
+Lat		 -6.6904287993115963e-01
+Lon		  1.7863958226294905e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 156
+Lat		 -5.6099868814103448e-01
+Lon		  1.5399963988185261e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 157
+Lat		 -5.6099868814103448e-01
+Lon		  1.6631961107240083e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 158
+Lat		 -5.6099868814103448e-01
+Lon		  1.7863958226294905e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 159
+Lat		 -4.5295449635090934e-01
+Lon		  1.5399963988185261e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 160
+Lat		 -4.5295449635090934e-01
+Lon		  1.6631961107240083e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 161
+Lat		 -4.5295449635090934e-01
+Lon		  1.7863958226294905e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 19
+NumPtsInRegion		 9
+
+PointNumber		 162
+Lat		 -6.6904287993115963e-01
+Lon		  1.9095955345349724e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 163
+Lat		 -6.6904287993115963e-01
+Lon		  2.0327952464404544e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 164
+Lat		 -6.6904287993115963e-01
+Lon		  2.1559949583459366e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 165
+Lat		 -5.6099868814103448e-01
+Lon		  1.9095955345349724e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 166
+Lat		 -5.6099868814103448e-01
+Lon		  2.0327952464404544e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 167
+Lat		 -5.6099868814103448e-01
+Lon		  2.1559949583459366e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 168
+Lat		 -4.5295449635090934e-01
+Lon		  1.9095955345349724e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 169
+Lat		 -4.5295449635090934e-01
+Lon		  2.0327952464404544e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 170
+Lat		 -4.5295449635090934e-01
+Lon		  2.1559949583459366e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 20
+NumPtsInRegion		 9
+
+PointNumber		 171
+Lat		 -6.6904287993115963e-01
+Lon		  2.2791946702514188e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 172
+Lat		 -6.6904287993115963e-01
+Lon		  2.4023943821569009e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 173
+Lat		 -6.6904287993115963e-01
+Lon		  2.5255940940623831e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 174
+Lat		 -5.6099868814103448e-01
+Lon		  2.2791946702514188e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 175
+Lat		 -5.6099868814103448e-01
+Lon		  2.4023943821569009e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 176
+Lat		 -5.6099868814103448e-01
+Lon		  2.5255940940623831e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 177
+Lat		 -4.5295449635090934e-01
+Lon		  2.2791946702514188e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 178
+Lat		 -4.5295449635090934e-01
+Lon		  2.4023943821569009e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 179
+Lat		 -4.5295449635090934e-01
+Lon		  2.5255940940623831e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 21
+NumPtsInRegion		 9
+
+PointNumber		 180
+Lat		 -6.6904287993115963e-01
+Lon		  2.6487938059678648e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 181
+Lat		 -6.6904287993115963e-01
+Lon		  2.7719935178733470e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 182
+Lat		 -6.6904287993115963e-01
+Lon		  2.8951932297788292e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 183
+Lat		 -5.6099868814103448e-01
+Lon		  2.6487938059678648e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 184
+Lat		 -5.6099868814103448e-01
+Lon		  2.7719935178733470e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 185
+Lat		 -5.6099868814103448e-01
+Lon		  2.8951932297788292e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 186
+Lat		 -4.5295449635090934e-01
+Lon		  2.6487938059678648e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 187
+Lat		 -4.5295449635090934e-01
+Lon		  2.7719935178733470e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 188
+Lat		 -4.5295449635090934e-01
+Lon		  2.8951932297788292e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 22
+NumPtsInRegion		 9
+
+PointNumber		 189
+Lat		 -6.6904287993115963e-01
+Lon		  3.0183929416843109e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 190
+Lat		 -6.6904287993115963e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 191
+Lat		 -6.6904287993115963e-01
+Lon		  3.2647923654952753e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 192
+Lat		 -5.6099868814103448e-01
+Lon		  3.0183929416843109e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 193
+Lat		 -5.6099868814103448e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 194
+Lat		 -5.6099868814103448e-01
+Lon		  3.2647923654952753e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 195
+Lat		 -4.5295449635090934e-01
+Lon		  3.0183929416843109e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 196
+Lat		 -4.5295449635090934e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 197
+Lat		 -4.5295449635090934e-01
+Lon		  3.2647923654952753e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 23
+NumPtsInRegion		 9
+
+PointNumber		 198
+Lat		 -6.6904287993115963e-01
+Lon		  3.3879920774007570e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 199
+Lat		 -6.6904287993115963e-01
+Lon		  3.5111917893062392e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 200
+Lat		 -6.6904287993115963e-01
+Lon		  3.6343915012117214e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 201
+Lat		 -5.6099868814103448e-01
+Lon		  3.3879920774007570e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 202
+Lat		 -5.6099868814103448e-01
+Lon		  3.5111917893062392e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 203
+Lat		 -5.6099868814103448e-01
+Lon		  3.6343915012117214e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 204
+Lat		 -4.5295449635090934e-01
+Lon		  3.3879920774007570e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 205
+Lat		 -4.5295449635090934e-01
+Lon		  3.5111917893062392e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 206
+Lat		 -4.5295449635090934e-01
+Lon		  3.6343915012117214e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 24
+NumPtsInRegion		 9
+
+PointNumber		 207
+Lat		 -6.6904287993115963e-01
+Lon		  3.7575912131172036e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 208
+Lat		 -6.6904287993115963e-01
+Lon		  3.8807909250226857e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 209
+Lat		 -6.6904287993115963e-01
+Lon		  4.0039906369281679e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 210
+Lat		 -5.6099868814103448e-01
+Lon		  3.7575912131172036e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 211
+Lat		 -5.6099868814103448e-01
+Lon		  3.8807909250226857e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 212
+Lat		 -5.6099868814103448e-01
+Lon		  4.0039906369281679e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 213
+Lat		 -4.5295449635090934e-01
+Lon		  3.7575912131172036e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 214
+Lat		 -4.5295449635090934e-01
+Lon		  3.8807909250226857e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 215
+Lat		 -4.5295449635090934e-01
+Lon		  4.0039906369281679e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 25
+NumPtsInRegion		 9
+
+PointNumber		 216
+Lat		 -6.6904287993115963e-01
+Lon		  4.1271903488336505e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 217
+Lat		 -6.6904287993115963e-01
+Lon		  4.2503900607391323e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 218
+Lat		 -6.6904287993115963e-01
+Lon		  4.3735897726446140e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 219
+Lat		 -5.6099868814103448e-01
+Lon		  4.1271903488336505e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 220
+Lat		 -5.6099868814103448e-01
+Lon		  4.2503900607391323e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 221
+Lat		 -5.6099868814103448e-01
+Lon		  4.3735897726446140e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 222
+Lat		 -4.5295449635090934e-01
+Lon		  4.1271903488336505e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 223
+Lat		 -4.5295449635090934e-01
+Lon		  4.2503900607391323e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 224
+Lat		 -4.5295449635090934e-01
+Lon		  4.3735897726446140e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 26
+NumPtsInRegion		 9
+
+PointNumber		 225
+Lat		 -6.6904287993115963e-01
+Lon		  4.4967894845500958e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 226
+Lat		 -6.6904287993115963e-01
+Lon		  4.6199891964555775e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 227
+Lat		 -6.6904287993115963e-01
+Lon		  4.7431889083610592e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 228
+Lat		 -5.6099868814103448e-01
+Lon		  4.4967894845500958e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 229
+Lat		 -5.6099868814103448e-01
+Lon		  4.6199891964555775e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 230
+Lat		 -5.6099868814103448e-01
+Lon		  4.7431889083610592e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 231
+Lat		 -4.5295449635090934e-01
+Lon		  4.4967894845500958e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 232
+Lat		 -4.5295449635090934e-01
+Lon		  4.6199891964555775e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 233
+Lat		 -4.5295449635090934e-01
+Lon		  4.7431889083610592e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 27
+NumPtsInRegion		 9
+
+PointNumber		 234
+Lat		 -6.6904287993115963e-01
+Lon		  4.8663886202665418e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 235
+Lat		 -6.6904287993115963e-01
+Lon		  4.9895883321720245e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 236
+Lat		 -6.6904287993115963e-01
+Lon		  5.1127880440775071e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 237
+Lat		 -5.6099868814103448e-01
+Lon		  4.8663886202665418e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 238
+Lat		 -5.6099868814103448e-01
+Lon		  4.9895883321720245e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 239
+Lat		 -5.6099868814103448e-01
+Lon		  5.1127880440775071e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 240
+Lat		 -4.5295449635090934e-01
+Lon		  4.8663886202665418e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 241
+Lat		 -4.5295449635090934e-01
+Lon		  4.9895883321720245e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 242
+Lat		 -4.5295449635090934e-01
+Lon		  5.1127880440775071e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 28
+NumPtsInRegion		 9
+
+PointNumber		 243
+Lat		 -6.6904287993115963e-01
+Lon		  5.2359877559829897e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 244
+Lat		 -6.6904287993115963e-01
+Lon		  5.3591874678884714e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 245
+Lat		 -6.6904287993115963e-01
+Lon		  5.4823871797939532e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 246
+Lat		 -5.6099868814103448e-01
+Lon		  5.2359877559829897e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 247
+Lat		 -5.6099868814103448e-01
+Lon		  5.3591874678884714e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 248
+Lat		 -5.6099868814103448e-01
+Lon		  5.4823871797939532e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 249
+Lat		 -4.5295449635090934e-01
+Lon		  5.2359877559829897e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 250
+Lat		 -4.5295449635090934e-01
+Lon		  5.3591874678884714e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 251
+Lat		 -4.5295449635090934e-01
+Lon		  5.4823871797939532e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 29
+NumPtsInRegion		 9
+
+PointNumber		 252
+Lat		 -6.6904287993115963e-01
+Lon		  5.6055868916994349e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 253
+Lat		 -6.6904287993115963e-01
+Lon		  5.7287866036049166e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 254
+Lat		 -6.6904287993115963e-01
+Lon		  5.8519863155103984e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 255
+Lat		 -5.6099868814103448e-01
+Lon		  5.6055868916994349e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 256
+Lat		 -5.6099868814103448e-01
+Lon		  5.7287866036049166e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 257
+Lat		 -5.6099868814103448e-01
+Lon		  5.8519863155103984e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 258
+Lat		 -4.5295449635090934e-01
+Lon		  5.6055868916994349e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 259
+Lat		 -4.5295449635090934e-01
+Lon		  5.7287866036049166e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 260
+Lat		 -4.5295449635090934e-01
+Lon		  5.8519863155103984e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 30
+NumPtsInRegion		 9
+
+PointNumber		 261
+Lat		 -6.6904287993115963e-01
+Lon		  5.9751860274158819e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 262
+Lat		 -6.6904287993115963e-01
+Lon		  6.0983857393213636e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 263
+Lat		 -6.6904287993115963e-01
+Lon		  6.2215854512268454e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 264
+Lat		 -5.6099868814103448e-01
+Lon		  5.9751860274158819e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 265
+Lat		 -5.6099868814103448e-01
+Lon		  6.0983857393213636e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 266
+Lat		 -5.6099868814103448e-01
+Lon		  6.2215854512268454e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 267
+Lat		 -4.5295449635090934e-01
+Lon		  5.9751860274158819e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 268
+Lat		 -4.5295449635090934e-01
+Lon		  6.0983857393213636e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 269
+Lat		 -4.5295449635090934e-01
+Lon		  6.2215854512268454e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 31
+NumPtsInRegion		 9
+
+PointNumber		 270
+Lat		 -3.4491030456078403e-01
+Lon		  5.5115660589294610e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 271
+Lat		 -3.4491030456078403e-01
+Lon		  1.6534698176788384e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 272
+Lat		 -3.4491030456078403e-01
+Lon		  2.7557830294647306e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 273
+Lat		 -2.3686611277065889e-01
+Lon		  5.5115660589294610e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 274
+Lat		 -2.3686611277065889e-01
+Lon		  1.6534698176788384e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 275
+Lat		 -2.3686611277065889e-01
+Lon		  2.7557830294647306e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 276
+Lat		 -1.2882192098053374e-01
+Lon		  5.5115660589294610e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 277
+Lat		 -1.2882192098053374e-01
+Lon		  1.6534698176788384e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 278
+Lat		 -1.2882192098053374e-01
+Lon		  2.7557830294647306e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 32
+NumPtsInRegion		 9
+
+PointNumber		 279
+Lat		 -3.4491030456078403e-01
+Lon		  3.8580962412506226e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 280
+Lat		 -3.4491030456078403e-01
+Lon		  4.9604094530365150e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 281
+Lat		 -3.4491030456078403e-01
+Lon		  6.0627226648224075e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 282
+Lat		 -2.3686611277065889e-01
+Lon		  3.8580962412506226e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 283
+Lat		 -2.3686611277065889e-01
+Lon		  4.9604094530365150e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 284
+Lat		 -2.3686611277065889e-01
+Lon		  6.0627226648224075e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 285
+Lat		 -1.2882192098053374e-01
+Lon		  3.8580962412506226e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 286
+Lat		 -1.2882192098053374e-01
+Lon		  4.9604094530365150e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 287
+Lat		 -1.2882192098053374e-01
+Lon		  6.0627226648224075e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 33
+NumPtsInRegion		 9
+
+PointNumber		 288
+Lat		 -3.4491030456078403e-01
+Lon		  7.1650358766082989e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 289
+Lat		 -3.4491030456078403e-01
+Lon		  8.2673490883941914e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 290
+Lat		 -3.4491030456078403e-01
+Lon		  9.3696623001800838e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 291
+Lat		 -2.3686611277065889e-01
+Lon		  7.1650358766082989e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 292
+Lat		 -2.3686611277065889e-01
+Lon		  8.2673490883941914e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 293
+Lat		 -2.3686611277065889e-01
+Lon		  9.3696623001800838e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 294
+Lat		 -1.2882192098053374e-01
+Lon		  7.1650358766082989e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 295
+Lat		 -1.2882192098053374e-01
+Lon		  8.2673490883941914e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 296
+Lat		 -1.2882192098053374e-01
+Lon		  9.3696623001800838e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 34
+NumPtsInRegion		 9
+
+PointNumber		 297
+Lat		 -3.4491030456078403e-01
+Lon		  1.0471975511965976e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 298
+Lat		 -3.4491030456078403e-01
+Lon		  1.1574288723751869e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 299
+Lat		 -3.4491030456078403e-01
+Lon		  1.2676601935537761e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 300
+Lat		 -2.3686611277065889e-01
+Lon		  1.0471975511965976e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 301
+Lat		 -2.3686611277065889e-01
+Lon		  1.1574288723751869e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 302
+Lat		 -2.3686611277065889e-01
+Lon		  1.2676601935537761e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 303
+Lat		 -1.2882192098053374e-01
+Lon		  1.0471975511965976e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 304
+Lat		 -1.2882192098053374e-01
+Lon		  1.1574288723751869e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 305
+Lat		 -1.2882192098053374e-01
+Lon		  1.2676601935537761e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 35
+NumPtsInRegion		 9
+
+PointNumber		 306
+Lat		 -3.4491030456078403e-01
+Lon		  1.3778915147323654e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 307
+Lat		 -3.4491030456078403e-01
+Lon		  1.4881228359109546e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 308
+Lat		 -3.4491030456078403e-01
+Lon		  1.5983541570895439e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 309
+Lat		 -2.3686611277065889e-01
+Lon		  1.3778915147323654e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 310
+Lat		 -2.3686611277065889e-01
+Lon		  1.4881228359109546e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 311
+Lat		 -2.3686611277065889e-01
+Lon		  1.5983541570895439e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 312
+Lat		 -1.2882192098053374e-01
+Lon		  1.3778915147323654e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 313
+Lat		 -1.2882192098053374e-01
+Lon		  1.4881228359109546e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 314
+Lat		 -1.2882192098053374e-01
+Lon		  1.5983541570895439e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 36
+NumPtsInRegion		 9
+
+PointNumber		 315
+Lat		 -3.4491030456078403e-01
+Lon		  1.7085854782681329e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 316
+Lat		 -3.4491030456078403e-01
+Lon		  1.8188167994467221e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 317
+Lat		 -3.4491030456078403e-01
+Lon		  1.9290481206253114e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 318
+Lat		 -2.3686611277065889e-01
+Lon		  1.7085854782681329e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 319
+Lat		 -2.3686611277065889e-01
+Lon		  1.8188167994467221e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 320
+Lat		 -2.3686611277065889e-01
+Lon		  1.9290481206253114e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 321
+Lat		 -1.2882192098053374e-01
+Lon		  1.7085854782681329e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 322
+Lat		 -1.2882192098053374e-01
+Lon		  1.8188167994467221e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 323
+Lat		 -1.2882192098053374e-01
+Lon		  1.9290481206253114e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 37
+NumPtsInRegion		 9
+
+PointNumber		 324
+Lat		 -3.4491030456078403e-01
+Lon		  2.0392794418039006e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 325
+Lat		 -3.4491030456078403e-01
+Lon		  2.1495107629824899e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 326
+Lat		 -3.4491030456078403e-01
+Lon		  2.2597420841610791e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 327
+Lat		 -2.3686611277065889e-01
+Lon		  2.0392794418039006e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 328
+Lat		 -2.3686611277065889e-01
+Lon		  2.1495107629824899e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 329
+Lat		 -2.3686611277065889e-01
+Lon		  2.2597420841610791e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 330
+Lat		 -1.2882192098053374e-01
+Lon		  2.0392794418039006e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 331
+Lat		 -1.2882192098053374e-01
+Lon		  2.1495107629824899e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 332
+Lat		 -1.2882192098053374e-01
+Lon		  2.2597420841610791e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 38
+NumPtsInRegion		 9
+
+PointNumber		 333
+Lat		 -3.4491030456078403e-01
+Lon		  2.3699734053396684e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 334
+Lat		 -3.4491030456078403e-01
+Lon		  2.4802047265182576e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 335
+Lat		 -3.4491030456078403e-01
+Lon		  2.5904360476968469e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 336
+Lat		 -2.3686611277065889e-01
+Lon		  2.3699734053396684e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 337
+Lat		 -2.3686611277065889e-01
+Lon		  2.4802047265182576e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 338
+Lat		 -2.3686611277065889e-01
+Lon		  2.5904360476968469e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 339
+Lat		 -1.2882192098053374e-01
+Lon		  2.3699734053396684e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 340
+Lat		 -1.2882192098053374e-01
+Lon		  2.4802047265182576e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 341
+Lat		 -1.2882192098053374e-01
+Lon		  2.5904360476968469e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 39
+NumPtsInRegion		 9
+
+PointNumber		 342
+Lat		 -3.4491030456078403e-01
+Lon		  2.7006673688754361e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 343
+Lat		 -3.4491030456078403e-01
+Lon		  2.8108986900540254e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 344
+Lat		 -3.4491030456078403e-01
+Lon		  2.9211300112326146e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 345
+Lat		 -2.3686611277065889e-01
+Lon		  2.7006673688754361e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 346
+Lat		 -2.3686611277065889e-01
+Lon		  2.8108986900540254e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 347
+Lat		 -2.3686611277065889e-01
+Lon		  2.9211300112326146e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 348
+Lat		 -1.2882192098053374e-01
+Lon		  2.7006673688754361e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 349
+Lat		 -1.2882192098053374e-01
+Lon		  2.8108986900540254e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 350
+Lat		 -1.2882192098053374e-01
+Lon		  2.9211300112326146e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 40
+NumPtsInRegion		 9
+
+PointNumber		 351
+Lat		 -3.4491030456078403e-01
+Lon		  3.0313613324112039e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 352
+Lat		 -3.4491030456078403e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 353
+Lat		 -3.4491030456078403e-01
+Lon		  3.2518239747683824e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 354
+Lat		 -2.3686611277065889e-01
+Lon		  3.0313613324112039e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 355
+Lat		 -2.3686611277065889e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 356
+Lat		 -2.3686611277065889e-01
+Lon		  3.2518239747683824e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 357
+Lat		 -1.2882192098053374e-01
+Lon		  3.0313613324112039e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 358
+Lat		 -1.2882192098053374e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 359
+Lat		 -1.2882192098053374e-01
+Lon		  3.2518239747683824e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 41
+NumPtsInRegion		 9
+
+PointNumber		 360
+Lat		 -3.4491030456078403e-01
+Lon		  3.3620552959469716e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 361
+Lat		 -3.4491030456078403e-01
+Lon		  3.4722866171255609e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 362
+Lat		 -3.4491030456078403e-01
+Lon		  3.5825179383041501e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 363
+Lat		 -2.3686611277065889e-01
+Lon		  3.3620552959469716e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 364
+Lat		 -2.3686611277065889e-01
+Lon		  3.4722866171255609e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 365
+Lat		 -2.3686611277065889e-01
+Lon		  3.5825179383041501e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 366
+Lat		 -1.2882192098053374e-01
+Lon		  3.3620552959469716e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 367
+Lat		 -1.2882192098053374e-01
+Lon		  3.4722866171255609e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 368
+Lat		 -1.2882192098053374e-01
+Lon		  3.5825179383041501e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 42
+NumPtsInRegion		 9
+
+PointNumber		 369
+Lat		 -3.4491030456078403e-01
+Lon		  3.6927492594827394e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 370
+Lat		 -3.4491030456078403e-01
+Lon		  3.8029805806613286e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 371
+Lat		 -3.4491030456078403e-01
+Lon		  3.9132119018399179e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 372
+Lat		 -2.3686611277065889e-01
+Lon		  3.6927492594827394e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 373
+Lat		 -2.3686611277065889e-01
+Lon		  3.8029805806613286e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 374
+Lat		 -2.3686611277065889e-01
+Lon		  3.9132119018399179e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 375
+Lat		 -1.2882192098053374e-01
+Lon		  3.6927492594827394e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 376
+Lat		 -1.2882192098053374e-01
+Lon		  3.8029805806613286e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 377
+Lat		 -1.2882192098053374e-01
+Lon		  3.9132119018399179e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 43
+NumPtsInRegion		 9
+
+PointNumber		 378
+Lat		 -3.4491030456078403e-01
+Lon		  4.0234432230185062e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 379
+Lat		 -3.4491030456078403e-01
+Lon		  4.1336745441970955e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 380
+Lat		 -3.4491030456078403e-01
+Lon		  4.2439058653756847e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 381
+Lat		 -2.3686611277065889e-01
+Lon		  4.0234432230185062e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 382
+Lat		 -2.3686611277065889e-01
+Lon		  4.1336745441970955e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 383
+Lat		 -2.3686611277065889e-01
+Lon		  4.2439058653756847e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 384
+Lat		 -1.2882192098053374e-01
+Lon		  4.0234432230185062e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 385
+Lat		 -1.2882192098053374e-01
+Lon		  4.1336745441970955e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 386
+Lat		 -1.2882192098053374e-01
+Lon		  4.2439058653756847e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 44
+NumPtsInRegion		 9
+
+PointNumber		 387
+Lat		 -3.4491030456078403e-01
+Lon		  4.3541371865542748e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 388
+Lat		 -3.4491030456078403e-01
+Lon		  4.4643685077328641e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 389
+Lat		 -3.4491030456078403e-01
+Lon		  4.5745998289114533e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 390
+Lat		 -2.3686611277065889e-01
+Lon		  4.3541371865542748e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 391
+Lat		 -2.3686611277065889e-01
+Lon		  4.4643685077328641e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 392
+Lat		 -2.3686611277065889e-01
+Lon		  4.5745998289114533e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 393
+Lat		 -1.2882192098053374e-01
+Lon		  4.3541371865542748e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 394
+Lat		 -1.2882192098053374e-01
+Lon		  4.4643685077328641e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 395
+Lat		 -1.2882192098053374e-01
+Lon		  4.5745998289114533e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 45
+NumPtsInRegion		 9
+
+PointNumber		 396
+Lat		 -3.4491030456078403e-01
+Lon		  4.6848311500900417e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 397
+Lat		 -3.4491030456078403e-01
+Lon		  4.7950624712686309e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 398
+Lat		 -3.4491030456078403e-01
+Lon		  4.9052937924472202e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 399
+Lat		 -2.3686611277065889e-01
+Lon		  4.6848311500900417e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 400
+Lat		 -2.3686611277065889e-01
+Lon		  4.7950624712686309e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 401
+Lat		 -2.3686611277065889e-01
+Lon		  4.9052937924472202e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 402
+Lat		 -1.2882192098053374e-01
+Lon		  4.6848311500900417e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 403
+Lat		 -1.2882192098053374e-01
+Lon		  4.7950624712686309e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 404
+Lat		 -1.2882192098053374e-01
+Lon		  4.9052937924472202e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 46
+NumPtsInRegion		 9
+
+PointNumber		 405
+Lat		 -3.4491030456078403e-01
+Lon		  5.0155251136258103e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 406
+Lat		 -3.4491030456078403e-01
+Lon		  5.1257564348043996e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 407
+Lat		 -3.4491030456078403e-01
+Lon		  5.2359877559829888e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 408
+Lat		 -2.3686611277065889e-01
+Lon		  5.0155251136258103e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 409
+Lat		 -2.3686611277065889e-01
+Lon		  5.1257564348043996e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 410
+Lat		 -2.3686611277065889e-01
+Lon		  5.2359877559829888e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 411
+Lat		 -1.2882192098053374e-01
+Lon		  5.0155251136258103e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 412
+Lat		 -1.2882192098053374e-01
+Lon		  5.1257564348043996e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 413
+Lat		 -1.2882192098053374e-01
+Lon		  5.2359877559829888e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 47
+NumPtsInRegion		 9
+
+PointNumber		 414
+Lat		 -3.4491030456078403e-01
+Lon		  5.3462190771615772e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 415
+Lat		 -3.4491030456078403e-01
+Lon		  5.4564503983401664e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 416
+Lat		 -3.4491030456078403e-01
+Lon		  5.5666817195187557e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 417
+Lat		 -2.3686611277065889e-01
+Lon		  5.3462190771615772e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 418
+Lat		 -2.3686611277065889e-01
+Lon		  5.4564503983401664e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 419
+Lat		 -2.3686611277065889e-01
+Lon		  5.5666817195187557e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 420
+Lat		 -1.2882192098053374e-01
+Lon		  5.3462190771615772e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 421
+Lat		 -1.2882192098053374e-01
+Lon		  5.4564503983401664e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 422
+Lat		 -1.2882192098053374e-01
+Lon		  5.5666817195187557e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 48
+NumPtsInRegion		 9
+
+PointNumber		 423
+Lat		 -3.4491030456078403e-01
+Lon		  5.6769130406973458e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 424
+Lat		 -3.4491030456078403e-01
+Lon		  5.7871443618759351e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 425
+Lat		 -3.4491030456078403e-01
+Lon		  5.8973756830545243e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 426
+Lat		 -2.3686611277065889e-01
+Lon		  5.6769130406973458e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 427
+Lat		 -2.3686611277065889e-01
+Lon		  5.7871443618759351e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 428
+Lat		 -2.3686611277065889e-01
+Lon		  5.8973756830545243e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 429
+Lat		 -1.2882192098053374e-01
+Lon		  5.6769130406973458e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 430
+Lat		 -1.2882192098053374e-01
+Lon		  5.7871443618759351e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 431
+Lat		 -1.2882192098053374e-01
+Lon		  5.8973756830545243e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 49
+NumPtsInRegion		 9
+
+PointNumber		 432
+Lat		 -3.4491030456078403e-01
+Lon		  6.0076070042331127e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 433
+Lat		 -3.4491030456078403e-01
+Lon		  6.1178383254117019e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 434
+Lat		 -3.4491030456078403e-01
+Lon		  6.2280696465902912e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 435
+Lat		 -2.3686611277065889e-01
+Lon		  6.0076070042331127e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 436
+Lat		 -2.3686611277065889e-01
+Lon		  6.1178383254117019e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 437
+Lat		 -2.3686611277065889e-01
+Lon		  6.2280696465902912e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 438
+Lat		 -1.2882192098053374e-01
+Lon		  6.0076070042331127e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 439
+Lat		 -1.2882192098053374e-01
+Lon		  6.1178383254117019e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 440
+Lat		 -1.2882192098053374e-01
+Lon		  6.2280696465902912e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 50
+NumPtsInRegion		 9
+
+PointNumber		 441
+Lat		 -2.0777729190408545e-02
+Lon		  5.2359877559829890e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 442
+Lat		 -2.0777729190408545e-02
+Lon		  1.5707963267948966e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 443
+Lat		 -2.0777729190408545e-02
+Lon		  2.6179938779914941e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 444
+Lat		  8.7266462599716599e-02
+Lon		  5.2359877559829890e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 445
+Lat		  8.7266462599716599e-02
+Lon		  1.5707963267948966e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 446
+Lat		  8.7266462599716599e-02
+Lon		  2.6179938779914941e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 447
+Lat		  1.9531065438984174e-01
+Lon		  5.2359877559829890e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 448
+Lat		  1.9531065438984174e-01
+Lon		  1.5707963267948966e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 449
+Lat		  1.9531065438984174e-01
+Lon		  2.6179938779914941e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 51
+NumPtsInRegion		 9
+
+PointNumber		 450
+Lat		 -2.0777729190408545e-02
+Lon		  3.6651914291880922e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 451
+Lat		 -2.0777729190408545e-02
+Lon		  4.7123889803846897e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 452
+Lat		 -2.0777729190408545e-02
+Lon		  5.7595865315812877e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 453
+Lat		  8.7266462599716599e-02
+Lon		  3.6651914291880922e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 454
+Lat		  8.7266462599716599e-02
+Lon		  4.7123889803846897e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 455
+Lat		  8.7266462599716599e-02
+Lon		  5.7595865315812877e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 456
+Lat		  1.9531065438984174e-01
+Lon		  3.6651914291880922e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 457
+Lat		  1.9531065438984174e-01
+Lon		  4.7123889803846897e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 458
+Lat		  1.9531065438984174e-01
+Lon		  5.7595865315812877e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 52
+NumPtsInRegion		 9
+
+PointNumber		 459
+Lat		 -2.0777729190408545e-02
+Lon		  6.8067840827778847e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 460
+Lat		 -2.0777729190408545e-02
+Lon		  7.8539816339744828e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 461
+Lat		 -2.0777729190408545e-02
+Lon		  8.9011791851710809e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 462
+Lat		  8.7266462599716599e-02
+Lon		  6.8067840827778847e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 463
+Lat		  8.7266462599716599e-02
+Lon		  7.8539816339744828e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 464
+Lat		  8.7266462599716599e-02
+Lon		  8.9011791851710809e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 465
+Lat		  1.9531065438984174e-01
+Lon		  6.8067840827778847e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 466
+Lat		  1.9531065438984174e-01
+Lon		  7.8539816339744828e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 467
+Lat		  1.9531065438984174e-01
+Lon		  8.9011791851710809e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 53
+NumPtsInRegion		 9
+
+PointNumber		 468
+Lat		 -2.0777729190408545e-02
+Lon		  9.9483767363676778e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 469
+Lat		 -2.0777729190408545e-02
+Lon		  1.0995574287564276e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 470
+Lat		 -2.0777729190408545e-02
+Lon		  1.2042771838760873e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 471
+Lat		  8.7266462599716599e-02
+Lon		  9.9483767363676778e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 472
+Lat		  8.7266462599716599e-02
+Lon		  1.0995574287564276e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 473
+Lat		  8.7266462599716599e-02
+Lon		  1.2042771838760873e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 474
+Lat		  1.9531065438984174e-01
+Lon		  9.9483767363676778e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 475
+Lat		  1.9531065438984174e-01
+Lon		  1.0995574287564276e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 476
+Lat		  1.9531065438984174e-01
+Lon		  1.2042771838760873e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 54
+NumPtsInRegion		 9
+
+PointNumber		 477
+Lat		 -2.0777729190408545e-02
+Lon		  1.3089969389957472e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 478
+Lat		 -2.0777729190408545e-02
+Lon		  1.4137166941154069e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 479
+Lat		 -2.0777729190408545e-02
+Lon		  1.5184364492350666e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 480
+Lat		  8.7266462599716599e-02
+Lon		  1.3089969389957472e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 481
+Lat		  8.7266462599716599e-02
+Lon		  1.4137166941154069e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 482
+Lat		  8.7266462599716599e-02
+Lon		  1.5184364492350666e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 483
+Lat		  1.9531065438984174e-01
+Lon		  1.3089969389957472e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 484
+Lat		  1.9531065438984174e-01
+Lon		  1.4137166941154069e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 485
+Lat		  1.9531065438984174e-01
+Lon		  1.5184364492350666e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 55
+NumPtsInRegion		 9
+
+PointNumber		 486
+Lat		 -2.0777729190408545e-02
+Lon		  1.6231562043547265e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 487
+Lat		 -2.0777729190408545e-02
+Lon		  1.7278759594743862e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 488
+Lat		 -2.0777729190408545e-02
+Lon		  1.8325957145940459e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 489
+Lat		  8.7266462599716599e-02
+Lon		  1.6231562043547265e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 490
+Lat		  8.7266462599716599e-02
+Lon		  1.7278759594743862e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 491
+Lat		  8.7266462599716599e-02
+Lon		  1.8325957145940459e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 492
+Lat		  1.9531065438984174e-01
+Lon		  1.6231562043547265e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 493
+Lat		  1.9531065438984174e-01
+Lon		  1.7278759594743862e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 494
+Lat		  1.9531065438984174e-01
+Lon		  1.8325957145940459e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 56
+NumPtsInRegion		 9
+
+PointNumber		 495
+Lat		 -2.0777729190408545e-02
+Lon		  1.9373154697137058e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 496
+Lat		 -2.0777729190408545e-02
+Lon		  2.0420352248333655e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 497
+Lat		 -2.0777729190408545e-02
+Lon		  2.1467549799530254e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 498
+Lat		  8.7266462599716599e-02
+Lon		  1.9373154697137058e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 499
+Lat		  8.7266462599716599e-02
+Lon		  2.0420352248333655e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 500
+Lat		  8.7266462599716599e-02
+Lon		  2.1467549799530254e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 501
+Lat		  1.9531065438984174e-01
+Lon		  1.9373154697137058e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 502
+Lat		  1.9531065438984174e-01
+Lon		  2.0420352248333655e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 503
+Lat		  1.9531065438984174e-01
+Lon		  2.1467549799530254e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 57
+NumPtsInRegion		 9
+
+PointNumber		 504
+Lat		 -2.0777729190408545e-02
+Lon		  2.2514747350726849e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 505
+Lat		 -2.0777729190408545e-02
+Lon		  2.3561944901923448e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 506
+Lat		 -2.0777729190408545e-02
+Lon		  2.4609142453120048e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 507
+Lat		  8.7266462599716599e-02
+Lon		  2.2514747350726849e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 508
+Lat		  8.7266462599716599e-02
+Lon		  2.3561944901923448e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 509
+Lat		  8.7266462599716599e-02
+Lon		  2.4609142453120048e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 510
+Lat		  1.9531065438984174e-01
+Lon		  2.2514747350726849e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 511
+Lat		  1.9531065438984174e-01
+Lon		  2.3561944901923448e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 512
+Lat		  1.9531065438984174e-01
+Lon		  2.4609142453120048e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 58
+NumPtsInRegion		 9
+
+PointNumber		 513
+Lat		 -2.0777729190408545e-02
+Lon		  2.5656340004316642e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 514
+Lat		 -2.0777729190408545e-02
+Lon		  2.6703537555513241e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 515
+Lat		 -2.0777729190408545e-02
+Lon		  2.7750735106709841e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 516
+Lat		  8.7266462599716599e-02
+Lon		  2.5656340004316642e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 517
+Lat		  8.7266462599716599e-02
+Lon		  2.6703537555513241e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 518
+Lat		  8.7266462599716599e-02
+Lon		  2.7750735106709841e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 519
+Lat		  1.9531065438984174e-01
+Lon		  2.5656340004316642e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 520
+Lat		  1.9531065438984174e-01
+Lon		  2.6703537555513241e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 521
+Lat		  1.9531065438984174e-01
+Lon		  2.7750735106709841e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 59
+NumPtsInRegion		 9
+
+PointNumber		 522
+Lat		 -2.0777729190408545e-02
+Lon		  2.8797932657906435e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 523
+Lat		 -2.0777729190408545e-02
+Lon		  2.9845130209103035e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 524
+Lat		 -2.0777729190408545e-02
+Lon		  3.0892327760299634e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 525
+Lat		  8.7266462599716599e-02
+Lon		  2.8797932657906435e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 526
+Lat		  8.7266462599716599e-02
+Lon		  2.9845130209103035e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 527
+Lat		  8.7266462599716599e-02
+Lon		  3.0892327760299634e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 528
+Lat		  1.9531065438984174e-01
+Lon		  2.8797932657906435e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 529
+Lat		  1.9531065438984174e-01
+Lon		  2.9845130209103035e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 530
+Lat		  1.9531065438984174e-01
+Lon		  3.0892327760299634e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 60
+NumPtsInRegion		 9
+
+PointNumber		 531
+Lat		 -2.0777729190408545e-02
+Lon		  3.1939525311496229e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 532
+Lat		 -2.0777729190408545e-02
+Lon		  3.2986722862692828e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 533
+Lat		 -2.0777729190408545e-02
+Lon		  3.4033920413889427e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 534
+Lat		  8.7266462599716599e-02
+Lon		  3.1939525311496229e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 535
+Lat		  8.7266462599716599e-02
+Lon		  3.2986722862692828e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 536
+Lat		  8.7266462599716599e-02
+Lon		  3.4033920413889427e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 537
+Lat		  1.9531065438984174e-01
+Lon		  3.1939525311496229e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 538
+Lat		  1.9531065438984174e-01
+Lon		  3.2986722862692828e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 539
+Lat		  1.9531065438984174e-01
+Lon		  3.4033920413889427e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 61
+NumPtsInRegion		 9
+
+PointNumber		 540
+Lat		 -2.0777729190408545e-02
+Lon		  3.5081117965086022e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 541
+Lat		 -2.0777729190408545e-02
+Lon		  3.6128315516282621e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 542
+Lat		 -2.0777729190408545e-02
+Lon		  3.7175513067479220e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 543
+Lat		  8.7266462599716599e-02
+Lon		  3.5081117965086022e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 544
+Lat		  8.7266462599716599e-02
+Lon		  3.6128315516282621e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 545
+Lat		  8.7266462599716599e-02
+Lon		  3.7175513067479220e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 546
+Lat		  1.9531065438984174e-01
+Lon		  3.5081117965086022e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 547
+Lat		  1.9531065438984174e-01
+Lon		  3.6128315516282621e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 548
+Lat		  1.9531065438984174e-01
+Lon		  3.7175513067479220e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 62
+NumPtsInRegion		 9
+
+PointNumber		 549
+Lat		 -2.0777729190408545e-02
+Lon		  3.8222710618675815e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 550
+Lat		 -2.0777729190408545e-02
+Lon		  3.9269908169872414e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 551
+Lat		 -2.0777729190408545e-02
+Lon		  4.0317105721069009e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 552
+Lat		  8.7266462599716599e-02
+Lon		  3.8222710618675815e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 553
+Lat		  8.7266462599716599e-02
+Lon		  3.9269908169872414e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 554
+Lat		  8.7266462599716599e-02
+Lon		  4.0317105721069009e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 555
+Lat		  1.9531065438984174e-01
+Lon		  3.8222710618675815e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 556
+Lat		  1.9531065438984174e-01
+Lon		  3.9269908169872414e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 557
+Lat		  1.9531065438984174e-01
+Lon		  4.0317105721069009e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 63
+NumPtsInRegion		 9
+
+PointNumber		 558
+Lat		 -2.0777729190408545e-02
+Lon		  4.1364303272265612e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 559
+Lat		 -2.0777729190408545e-02
+Lon		  4.2411500823462207e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 560
+Lat		 -2.0777729190408545e-02
+Lon		  4.3458698374658802e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 561
+Lat		  8.7266462599716599e-02
+Lon		  4.1364303272265612e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 562
+Lat		  8.7266462599716599e-02
+Lon		  4.2411500823462207e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 563
+Lat		  8.7266462599716599e-02
+Lon		  4.3458698374658802e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 564
+Lat		  1.9531065438984174e-01
+Lon		  4.1364303272265612e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 565
+Lat		  1.9531065438984174e-01
+Lon		  4.2411500823462207e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 566
+Lat		  1.9531065438984174e-01
+Lon		  4.3458698374658802e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 64
+NumPtsInRegion		 9
+
+PointNumber		 567
+Lat		 -2.0777729190408545e-02
+Lon		  4.4505895925855405e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 568
+Lat		 -2.0777729190408545e-02
+Lon		  4.5553093477052000e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 569
+Lat		 -2.0777729190408545e-02
+Lon		  4.6600291028248595e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 570
+Lat		  8.7266462599716599e-02
+Lon		  4.4505895925855405e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 571
+Lat		  8.7266462599716599e-02
+Lon		  4.5553093477052000e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 572
+Lat		  8.7266462599716599e-02
+Lon		  4.6600291028248595e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 573
+Lat		  1.9531065438984174e-01
+Lon		  4.4505895925855405e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 574
+Lat		  1.9531065438984174e-01
+Lon		  4.5553093477052000e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 575
+Lat		  1.9531065438984174e-01
+Lon		  4.6600291028248595e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 65
+NumPtsInRegion		 9
+
+PointNumber		 576
+Lat		 -2.0777729190408545e-02
+Lon		  4.7647488579445199e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 577
+Lat		 -2.0777729190408545e-02
+Lon		  4.8694686130641793e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 578
+Lat		 -2.0777729190408545e-02
+Lon		  4.9741883681838388e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 579
+Lat		  8.7266462599716599e-02
+Lon		  4.7647488579445199e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 580
+Lat		  8.7266462599716599e-02
+Lon		  4.8694686130641793e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 581
+Lat		  8.7266462599716599e-02
+Lon		  4.9741883681838388e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 582
+Lat		  1.9531065438984174e-01
+Lon		  4.7647488579445199e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 583
+Lat		  1.9531065438984174e-01
+Lon		  4.8694686130641793e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 584
+Lat		  1.9531065438984174e-01
+Lon		  4.9741883681838388e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 66
+NumPtsInRegion		 9
+
+PointNumber		 585
+Lat		 -2.0777729190408545e-02
+Lon		  5.0789081233034992e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 586
+Lat		 -2.0777729190408545e-02
+Lon		  5.1836278784231586e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 587
+Lat		 -2.0777729190408545e-02
+Lon		  5.2883476335428181e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 588
+Lat		  8.7266462599716599e-02
+Lon		  5.0789081233034992e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 589
+Lat		  8.7266462599716599e-02
+Lon		  5.1836278784231586e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 590
+Lat		  8.7266462599716599e-02
+Lon		  5.2883476335428181e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 591
+Lat		  1.9531065438984174e-01
+Lon		  5.0789081233034992e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 592
+Lat		  1.9531065438984174e-01
+Lon		  5.1836278784231586e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 593
+Lat		  1.9531065438984174e-01
+Lon		  5.2883476335428181e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 67
+NumPtsInRegion		 9
+
+PointNumber		 594
+Lat		 -2.0777729190408545e-02
+Lon		  5.3930673886624785e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 595
+Lat		 -2.0777729190408545e-02
+Lon		  5.4977871437821380e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 596
+Lat		 -2.0777729190408545e-02
+Lon		  5.6025068989017974e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 597
+Lat		  8.7266462599716599e-02
+Lon		  5.3930673886624785e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 598
+Lat		  8.7266462599716599e-02
+Lon		  5.4977871437821380e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 599
+Lat		  8.7266462599716599e-02
+Lon		  5.6025068989017974e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 600
+Lat		  1.9531065438984174e-01
+Lon		  5.3930673886624785e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 601
+Lat		  1.9531065438984174e-01
+Lon		  5.4977871437821380e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 602
+Lat		  1.9531065438984174e-01
+Lon		  5.6025068989017974e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 68
+NumPtsInRegion		 9
+
+PointNumber		 603
+Lat		 -2.0777729190408545e-02
+Lon		  5.7072266540214578e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 604
+Lat		 -2.0777729190408545e-02
+Lon		  5.8119464091411173e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 605
+Lat		 -2.0777729190408545e-02
+Lon		  5.9166661642607767e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 606
+Lat		  8.7266462599716599e-02
+Lon		  5.7072266540214578e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 607
+Lat		  8.7266462599716599e-02
+Lon		  5.8119464091411173e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 608
+Lat		  8.7266462599716599e-02
+Lon		  5.9166661642607767e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 609
+Lat		  1.9531065438984174e-01
+Lon		  5.7072266540214578e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 610
+Lat		  1.9531065438984174e-01
+Lon		  5.8119464091411173e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 611
+Lat		  1.9531065438984174e-01
+Lon		  5.9166661642607767e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 69
+NumPtsInRegion		 9
+
+PointNumber		 612
+Lat		 -2.0777729190408545e-02
+Lon		  6.0213859193804371e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 613
+Lat		 -2.0777729190408545e-02
+Lon		  6.1261056745000966e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 614
+Lat		 -2.0777729190408545e-02
+Lon		  6.2308254296197561e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 615
+Lat		  8.7266462599716599e-02
+Lon		  6.0213859193804371e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 616
+Lat		  8.7266462599716599e-02
+Lon		  6.1261056745000966e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 617
+Lat		  8.7266462599716599e-02
+Lon		  6.2308254296197561e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 618
+Lat		  1.9531065438984174e-01
+Lon		  6.0213859193804371e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 619
+Lat		  1.9531065438984174e-01
+Lon		  6.1261056745000966e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 620
+Lat		  1.9531065438984174e-01
+Lon		  6.2308254296197561e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 70
+NumPtsInRegion		 9
+
+PointNumber		 621
+Lat		  3.0335484617996689e-01
+Lon		  5.8177641733144311e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 622
+Lat		  3.0335484617996689e-01
+Lon		  1.7453292519943295e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 623
+Lat		  3.0335484617996689e-01
+Lon		  2.9088820866572157e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 624
+Lat		  4.1139903797009203e-01
+Lon		  5.8177641733144311e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 625
+Lat		  4.1139903797009203e-01
+Lon		  1.7453292519943295e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 626
+Lat		  4.1139903797009203e-01
+Lon		  2.9088820866572157e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 627
+Lat		  5.1944322976021717e-01
+Lon		  5.8177641733144311e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 628
+Lat		  5.1944322976021717e-01
+Lon		  1.7453292519943295e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 629
+Lat		  5.1944322976021717e-01
+Lon		  2.9088820866572157e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 71
+NumPtsInRegion		 9
+
+PointNumber		 630
+Lat		  3.0335484617996689e-01
+Lon		  4.0724349213201017e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 631
+Lat		  3.0335484617996689e-01
+Lon		  5.2359877559829882e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 632
+Lat		  3.0335484617996689e-01
+Lon		  6.3995405906458747e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 633
+Lat		  4.1139903797009203e-01
+Lon		  4.0724349213201017e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 634
+Lat		  4.1139903797009203e-01
+Lon		  5.2359877559829882e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 635
+Lat		  4.1139903797009203e-01
+Lon		  6.3995405906458747e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 636
+Lat		  5.1944322976021717e-01
+Lon		  4.0724349213201017e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 637
+Lat		  5.1944322976021717e-01
+Lon		  5.2359877559829882e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 638
+Lat		  5.1944322976021717e-01
+Lon		  6.3995405906458747e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 72
+NumPtsInRegion		 9
+
+PointNumber		 639
+Lat		  3.0335484617996689e-01
+Lon		  7.5630934253087601e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 640
+Lat		  3.0335484617996689e-01
+Lon		  8.7266462599716466e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 641
+Lat		  3.0335484617996689e-01
+Lon		  9.8901990946345331e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 642
+Lat		  4.1139903797009203e-01
+Lon		  7.5630934253087601e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 643
+Lat		  4.1139903797009203e-01
+Lon		  8.7266462599716466e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 644
+Lat		  4.1139903797009203e-01
+Lon		  9.8901990946345331e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 645
+Lat		  5.1944322976021717e-01
+Lon		  7.5630934253087601e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 646
+Lat		  5.1944322976021717e-01
+Lon		  8.7266462599716466e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 647
+Lat		  5.1944322976021717e-01
+Lon		  9.8901990946345331e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 73
+NumPtsInRegion		 9
+
+PointNumber		 648
+Lat		  3.0335484617996689e-01
+Lon		  1.1053751929297420e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 649
+Lat		  3.0335484617996689e-01
+Lon		  1.2217304763960306e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 650
+Lat		  3.0335484617996689e-01
+Lon		  1.3380857598623193e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 651
+Lat		  4.1139903797009203e-01
+Lon		  1.1053751929297420e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 652
+Lat		  4.1139903797009203e-01
+Lon		  1.2217304763960306e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 653
+Lat		  4.1139903797009203e-01
+Lon		  1.3380857598623193e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 654
+Lat		  5.1944322976021717e-01
+Lon		  1.1053751929297420e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 655
+Lat		  5.1944322976021717e-01
+Lon		  1.2217304763960306e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 656
+Lat		  5.1944322976021717e-01
+Lon		  1.3380857598623193e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 74
+NumPtsInRegion		 9
+
+PointNumber		 657
+Lat		  3.0335484617996689e-01
+Lon		  1.4544410433286079e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 658
+Lat		  3.0335484617996689e-01
+Lon		  1.5707963267948966e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 659
+Lat		  3.0335484617996689e-01
+Lon		  1.6871516102611852e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 660
+Lat		  4.1139903797009203e-01
+Lon		  1.4544410433286079e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 661
+Lat		  4.1139903797009203e-01
+Lon		  1.5707963267948966e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 662
+Lat		  4.1139903797009203e-01
+Lon		  1.6871516102611852e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 663
+Lat		  5.1944322976021717e-01
+Lon		  1.4544410433286079e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 664
+Lat		  5.1944322976021717e-01
+Lon		  1.5707963267948966e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 665
+Lat		  5.1944322976021717e-01
+Lon		  1.6871516102611852e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 75
+NumPtsInRegion		 9
+
+PointNumber		 666
+Lat		  3.0335484617996689e-01
+Lon		  1.8035068937274739e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 667
+Lat		  3.0335484617996689e-01
+Lon		  1.9198621771937625e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 668
+Lat		  3.0335484617996689e-01
+Lon		  2.0362174606600512e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 669
+Lat		  4.1139903797009203e-01
+Lon		  1.8035068937274739e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 670
+Lat		  4.1139903797009203e-01
+Lon		  1.9198621771937625e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 671
+Lat		  4.1139903797009203e-01
+Lon		  2.0362174606600512e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 672
+Lat		  5.1944322976021717e-01
+Lon		  1.8035068937274739e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 673
+Lat		  5.1944322976021717e-01
+Lon		  1.9198621771937625e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 674
+Lat		  5.1944322976021717e-01
+Lon		  2.0362174606600512e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 76
+NumPtsInRegion		 9
+
+PointNumber		 675
+Lat		  3.0335484617996689e-01
+Lon		  2.1525727441263398e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 676
+Lat		  3.0335484617996689e-01
+Lon		  2.2689280275926285e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 677
+Lat		  3.0335484617996689e-01
+Lon		  2.3852833110589171e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 678
+Lat		  4.1139903797009203e-01
+Lon		  2.1525727441263398e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 679
+Lat		  4.1139903797009203e-01
+Lon		  2.2689280275926285e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 680
+Lat		  4.1139903797009203e-01
+Lon		  2.3852833110589171e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 681
+Lat		  5.1944322976021717e-01
+Lon		  2.1525727441263398e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 682
+Lat		  5.1944322976021717e-01
+Lon		  2.2689280275926285e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 683
+Lat		  5.1944322976021717e-01
+Lon		  2.3852833110589171e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 77
+NumPtsInRegion		 9
+
+PointNumber		 684
+Lat		  3.0335484617996689e-01
+Lon		  2.5016385945252053e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 685
+Lat		  3.0335484617996689e-01
+Lon		  2.6179938779914940e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 686
+Lat		  3.0335484617996689e-01
+Lon		  2.7343491614577826e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 687
+Lat		  4.1139903797009203e-01
+Lon		  2.5016385945252053e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 688
+Lat		  4.1139903797009203e-01
+Lon		  2.6179938779914940e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 689
+Lat		  4.1139903797009203e-01
+Lon		  2.7343491614577826e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 690
+Lat		  5.1944322976021717e-01
+Lon		  2.5016385945252053e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 691
+Lat		  5.1944322976021717e-01
+Lon		  2.6179938779914940e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 692
+Lat		  5.1944322976021717e-01
+Lon		  2.7343491614577826e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 78
+NumPtsInRegion		 9
+
+PointNumber		 693
+Lat		  3.0335484617996689e-01
+Lon		  2.8507044449240717e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 694
+Lat		  3.0335484617996689e-01
+Lon		  2.9670597283903604e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 695
+Lat		  3.0335484617996689e-01
+Lon		  3.0834150118566490e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 696
+Lat		  4.1139903797009203e-01
+Lon		  2.8507044449240717e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 697
+Lat		  4.1139903797009203e-01
+Lon		  2.9670597283903604e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 698
+Lat		  4.1139903797009203e-01
+Lon		  3.0834150118566490e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 699
+Lat		  5.1944322976021717e-01
+Lon		  2.8507044449240717e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 700
+Lat		  5.1944322976021717e-01
+Lon		  2.9670597283903604e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 701
+Lat		  5.1944322976021717e-01
+Lon		  3.0834150118566490e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 79
+NumPtsInRegion		 9
+
+PointNumber		 702
+Lat		  3.0335484617996689e-01
+Lon		  3.1997702953229372e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 703
+Lat		  3.0335484617996689e-01
+Lon		  3.3161255787892259e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 704
+Lat		  3.0335484617996689e-01
+Lon		  3.4324808622555145e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 705
+Lat		  4.1139903797009203e-01
+Lon		  3.1997702953229372e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 706
+Lat		  4.1139903797009203e-01
+Lon		  3.3161255787892259e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 707
+Lat		  4.1139903797009203e-01
+Lon		  3.4324808622555145e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 708
+Lat		  5.1944322976021717e-01
+Lon		  3.1997702953229372e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 709
+Lat		  5.1944322976021717e-01
+Lon		  3.3161255787892259e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 710
+Lat		  5.1944322976021717e-01
+Lon		  3.4324808622555145e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 80
+NumPtsInRegion		 9
+
+PointNumber		 711
+Lat		  3.0335484617996689e-01
+Lon		  3.5488361457218036e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 712
+Lat		  3.0335484617996689e-01
+Lon		  3.6651914291880923e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 713
+Lat		  3.0335484617996689e-01
+Lon		  3.7815467126543809e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 714
+Lat		  4.1139903797009203e-01
+Lon		  3.5488361457218036e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 715
+Lat		  4.1139903797009203e-01
+Lon		  3.6651914291880923e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 716
+Lat		  4.1139903797009203e-01
+Lon		  3.7815467126543809e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 717
+Lat		  5.1944322976021717e-01
+Lon		  3.5488361457218036e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 718
+Lat		  5.1944322976021717e-01
+Lon		  3.6651914291880923e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 719
+Lat		  5.1944322976021717e-01
+Lon		  3.7815467126543809e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 81
+NumPtsInRegion		 9
+
+PointNumber		 720
+Lat		  3.0335484617996689e-01
+Lon		  3.8979019961206691e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 721
+Lat		  3.0335484617996689e-01
+Lon		  4.0142572795869578e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 722
+Lat		  3.0335484617996689e-01
+Lon		  4.1306125630532460e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 723
+Lat		  4.1139903797009203e-01
+Lon		  3.8979019961206691e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 724
+Lat		  4.1139903797009203e-01
+Lon		  4.0142572795869578e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 725
+Lat		  4.1139903797009203e-01
+Lon		  4.1306125630532460e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 726
+Lat		  5.1944322976021717e-01
+Lon		  3.8979019961206691e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 727
+Lat		  5.1944322976021717e-01
+Lon		  4.0142572795869578e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 728
+Lat		  5.1944322976021717e-01
+Lon		  4.1306125630532460e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 82
+NumPtsInRegion		 9
+
+PointNumber		 729
+Lat		  3.0335484617996689e-01
+Lon		  4.2469678465195351e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 730
+Lat		  3.0335484617996689e-01
+Lon		  4.3633231299858242e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 731
+Lat		  3.0335484617996689e-01
+Lon		  4.4796784134521133e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 732
+Lat		  4.1139903797009203e-01
+Lon		  4.2469678465195351e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 733
+Lat		  4.1139903797009203e-01
+Lon		  4.3633231299858242e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 734
+Lat		  4.1139903797009203e-01
+Lon		  4.4796784134521133e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 735
+Lat		  5.1944322976021717e-01
+Lon		  4.2469678465195351e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 736
+Lat		  5.1944322976021717e-01
+Lon		  4.3633231299858242e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 737
+Lat		  5.1944322976021717e-01
+Lon		  4.4796784134521133e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 83
+NumPtsInRegion		 9
+
+PointNumber		 738
+Lat		  3.0335484617996689e-01
+Lon		  4.5960336969184015e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 739
+Lat		  3.0335484617996689e-01
+Lon		  4.7123889803846897e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 740
+Lat		  3.0335484617996689e-01
+Lon		  4.8287442638509779e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 741
+Lat		  4.1139903797009203e-01
+Lon		  4.5960336969184015e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 742
+Lat		  4.1139903797009203e-01
+Lon		  4.7123889803846897e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 743
+Lat		  4.1139903797009203e-01
+Lon		  4.8287442638509779e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 744
+Lat		  5.1944322976021717e-01
+Lon		  4.5960336969184015e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 745
+Lat		  5.1944322976021717e-01
+Lon		  4.7123889803846897e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 746
+Lat		  5.1944322976021717e-01
+Lon		  4.8287442638509779e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 84
+NumPtsInRegion		 9
+
+PointNumber		 747
+Lat		  3.0335484617996689e-01
+Lon		  4.9450995473172661e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 748
+Lat		  3.0335484617996689e-01
+Lon		  5.0614548307835552e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 749
+Lat		  3.0335484617996689e-01
+Lon		  5.1778101142498443e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 750
+Lat		  4.1139903797009203e-01
+Lon		  4.9450995473172661e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 751
+Lat		  4.1139903797009203e-01
+Lon		  5.0614548307835552e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 752
+Lat		  4.1139903797009203e-01
+Lon		  5.1778101142498443e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 753
+Lat		  5.1944322976021717e-01
+Lon		  4.9450995473172661e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 754
+Lat		  5.1944322976021717e-01
+Lon		  5.0614548307835552e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 755
+Lat		  5.1944322976021717e-01
+Lon		  5.1778101142498443e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 85
+NumPtsInRegion		 9
+
+PointNumber		 756
+Lat		  3.0335484617996689e-01
+Lon		  5.2941653977161334e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 757
+Lat		  3.0335484617996689e-01
+Lon		  5.4105206811824216e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 758
+Lat		  3.0335484617996689e-01
+Lon		  5.5268759646487098e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 759
+Lat		  4.1139903797009203e-01
+Lon		  5.2941653977161334e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 760
+Lat		  4.1139903797009203e-01
+Lon		  5.4105206811824216e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 761
+Lat		  4.1139903797009203e-01
+Lon		  5.5268759646487098e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 762
+Lat		  5.1944322976021717e-01
+Lon		  5.2941653977161334e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 763
+Lat		  5.1944322976021717e-01
+Lon		  5.4105206811824216e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 764
+Lat		  5.1944322976021717e-01
+Lon		  5.5268759646487098e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 86
+NumPtsInRegion		 9
+
+PointNumber		 765
+Lat		  3.0335484617996689e-01
+Lon		  5.6432312481149989e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 766
+Lat		  3.0335484617996689e-01
+Lon		  5.7595865315812871e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 767
+Lat		  3.0335484617996689e-01
+Lon		  5.8759418150475753e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 768
+Lat		  4.1139903797009203e-01
+Lon		  5.6432312481149989e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 769
+Lat		  4.1139903797009203e-01
+Lon		  5.7595865315812871e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 770
+Lat		  4.1139903797009203e-01
+Lon		  5.8759418150475753e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 771
+Lat		  5.1944322976021717e-01
+Lon		  5.6432312481149989e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 772
+Lat		  5.1944322976021717e-01
+Lon		  5.7595865315812871e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 773
+Lat		  5.1944322976021717e-01
+Lon		  5.8759418150475753e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 87
+NumPtsInRegion		 9
+
+PointNumber		 774
+Lat		  3.0335484617996689e-01
+Lon		  5.9922970985138644e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 775
+Lat		  3.0335484617996689e-01
+Lon		  6.1086523819801535e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 776
+Lat		  3.0335484617996689e-01
+Lon		  6.2250076654464426e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 777
+Lat		  4.1139903797009203e-01
+Lon		  5.9922970985138644e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 778
+Lat		  4.1139903797009203e-01
+Lon		  6.1086523819801535e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 779
+Lat		  4.1139903797009203e-01
+Lon		  6.2250076654464426e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 780
+Lat		  5.1944322976021717e-01
+Lon		  5.9922970985138644e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 781
+Lat		  5.1944322976021717e-01
+Lon		  6.1086523819801535e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 782
+Lat		  5.1944322976021717e-01
+Lon		  6.2250076654464426e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 88
+NumPtsInRegion		 9
+
+PointNumber		 783
+Lat		  6.2748742155034243e-01
+Lon		  6.9813170079773168e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 784
+Lat		  6.2748742155034243e-01
+Lon		  2.0943951023931953e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 785
+Lat		  6.2748742155034243e-01
+Lon		  3.4906585039886590e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 786
+Lat		  7.3553161334046757e-01
+Lon		  6.9813170079773168e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 787
+Lat		  7.3553161334046757e-01
+Lon		  2.0943951023931953e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 788
+Lat		  7.3553161334046757e-01
+Lon		  3.4906585039886590e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 789
+Lat		  8.4357580513059272e-01
+Lon		  6.9813170079773168e-02
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 790
+Lat		  8.4357580513059272e-01
+Lon		  2.0943951023931953e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 791
+Lat		  8.4357580513059272e-01
+Lon		  3.4906585039886590e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 89
+NumPtsInRegion		 9
+
+PointNumber		 792
+Lat		  6.2748742155034243e-01
+Lon		  4.8869219055841229e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 793
+Lat		  6.2748742155034243e-01
+Lon		  6.2831853071795862e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 794
+Lat		  6.2748742155034243e-01
+Lon		  7.6794487087750496e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 795
+Lat		  7.3553161334046757e-01
+Lon		  4.8869219055841229e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 796
+Lat		  7.3553161334046757e-01
+Lon		  6.2831853071795862e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 797
+Lat		  7.3553161334046757e-01
+Lon		  7.6794487087750496e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 798
+Lat		  8.4357580513059272e-01
+Lon		  4.8869219055841229e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 799
+Lat		  8.4357580513059272e-01
+Lon		  6.2831853071795862e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 800
+Lat		  8.4357580513059272e-01
+Lon		  7.6794487087750496e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 90
+NumPtsInRegion		 9
+
+PointNumber		 801
+Lat		  6.2748742155034243e-01
+Lon		  9.0757121103705130e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 802
+Lat		  6.2748742155034243e-01
+Lon		  1.0471975511965976e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 803
+Lat		  6.2748742155034243e-01
+Lon		  1.1868238913561440e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 804
+Lat		  7.3553161334046757e-01
+Lon		  9.0757121103705130e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 805
+Lat		  7.3553161334046757e-01
+Lon		  1.0471975511965976e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 806
+Lat		  7.3553161334046757e-01
+Lon		  1.1868238913561440e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 807
+Lat		  8.4357580513059272e-01
+Lon		  9.0757121103705130e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 808
+Lat		  8.4357580513059272e-01
+Lon		  1.0471975511965976e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 809
+Lat		  8.4357580513059272e-01
+Lon		  1.1868238913561440e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 91
+NumPtsInRegion		 9
+
+PointNumber		 810
+Lat		  6.2748742155034243e-01
+Lon		  1.3264502315156903e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 811
+Lat		  6.2748742155034243e-01
+Lon		  1.4660765716752366e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 812
+Lat		  6.2748742155034243e-01
+Lon		  1.6057029118347830e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 813
+Lat		  7.3553161334046757e-01
+Lon		  1.3264502315156903e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 814
+Lat		  7.3553161334046757e-01
+Lon		  1.4660765716752366e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 815
+Lat		  7.3553161334046757e-01
+Lon		  1.6057029118347830e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 816
+Lat		  8.4357580513059272e-01
+Lon		  1.3264502315156903e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 817
+Lat		  8.4357580513059272e-01
+Lon		  1.4660765716752366e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 818
+Lat		  8.4357580513059272e-01
+Lon		  1.6057029118347830e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 92
+NumPtsInRegion		 9
+
+PointNumber		 819
+Lat		  6.2748742155034243e-01
+Lon		  1.7453292519943295e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 820
+Lat		  6.2748742155034243e-01
+Lon		  1.8849555921538759e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 821
+Lat		  6.2748742155034243e-01
+Lon		  2.0245819323134224e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 822
+Lat		  7.3553161334046757e-01
+Lon		  1.7453292519943295e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 823
+Lat		  7.3553161334046757e-01
+Lon		  1.8849555921538759e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 824
+Lat		  7.3553161334046757e-01
+Lon		  2.0245819323134224e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 825
+Lat		  8.4357580513059272e-01
+Lon		  1.7453292519943295e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 826
+Lat		  8.4357580513059272e-01
+Lon		  1.8849555921538759e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 827
+Lat		  8.4357580513059272e-01
+Lon		  2.0245819323134224e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 93
+NumPtsInRegion		 9
+
+PointNumber		 828
+Lat		  6.2748742155034243e-01
+Lon		  2.1642082724729681e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 829
+Lat		  6.2748742155034243e-01
+Lon		  2.3038346126325147e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 830
+Lat		  6.2748742155034243e-01
+Lon		  2.4434609527920612e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 831
+Lat		  7.3553161334046757e-01
+Lon		  2.1642082724729681e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 832
+Lat		  7.3553161334046757e-01
+Lon		  2.3038346126325147e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 833
+Lat		  7.3553161334046757e-01
+Lon		  2.4434609527920612e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 834
+Lat		  8.4357580513059272e-01
+Lon		  2.1642082724729681e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 835
+Lat		  8.4357580513059272e-01
+Lon		  2.3038346126325147e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 836
+Lat		  8.4357580513059272e-01
+Lon		  2.4434609527920612e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 94
+NumPtsInRegion		 9
+
+PointNumber		 837
+Lat		  6.2748742155034243e-01
+Lon		  2.5830872929516078e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 838
+Lat		  6.2748742155034243e-01
+Lon		  2.7227136331111539e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 839
+Lat		  6.2748742155034243e-01
+Lon		  2.8623399732707000e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 840
+Lat		  7.3553161334046757e-01
+Lon		  2.5830872929516078e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 841
+Lat		  7.3553161334046757e-01
+Lon		  2.7227136331111539e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 842
+Lat		  7.3553161334046757e-01
+Lon		  2.8623399732707000e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 843
+Lat		  8.4357580513059272e-01
+Lon		  2.5830872929516078e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 844
+Lat		  8.4357580513059272e-01
+Lon		  2.7227136331111539e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 845
+Lat		  8.4357580513059272e-01
+Lon		  2.8623399732707000e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 95
+NumPtsInRegion		 9
+
+PointNumber		 846
+Lat		  6.2748742155034243e-01
+Lon		  3.0019663134302466e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 847
+Lat		  6.2748742155034243e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 848
+Lat		  6.2748742155034243e-01
+Lon		  3.2812189937493397e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 849
+Lat		  7.3553161334046757e-01
+Lon		  3.0019663134302466e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 850
+Lat		  7.3553161334046757e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 851
+Lat		  7.3553161334046757e-01
+Lon		  3.2812189937493397e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 852
+Lat		  8.4357580513059272e-01
+Lon		  3.0019663134302466e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 853
+Lat		  8.4357580513059272e-01
+Lon		  3.1415926535897931e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 854
+Lat		  8.4357580513059272e-01
+Lon		  3.2812189937493397e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 96
+NumPtsInRegion		 9
+
+PointNumber		 855
+Lat		  6.2748742155034243e-01
+Lon		  3.4208453339088853e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 856
+Lat		  6.2748742155034243e-01
+Lon		  3.5604716740684319e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 857
+Lat		  6.2748742155034243e-01
+Lon		  3.7000980142279785e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 858
+Lat		  7.3553161334046757e-01
+Lon		  3.4208453339088853e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 859
+Lat		  7.3553161334046757e-01
+Lon		  3.5604716740684319e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 860
+Lat		  7.3553161334046757e-01
+Lon		  3.7000980142279785e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 861
+Lat		  8.4357580513059272e-01
+Lon		  3.4208453339088853e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 862
+Lat		  8.4357580513059272e-01
+Lon		  3.5604716740684319e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 863
+Lat		  8.4357580513059272e-01
+Lon		  3.7000980142279785e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 97
+NumPtsInRegion		 9
+
+PointNumber		 864
+Lat		  6.2748742155034243e-01
+Lon		  3.8397243543875250e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 865
+Lat		  6.2748742155034243e-01
+Lon		  3.9793506945470711e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 866
+Lat		  6.2748742155034243e-01
+Lon		  4.1189770347066172e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 867
+Lat		  7.3553161334046757e-01
+Lon		  3.8397243543875250e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 868
+Lat		  7.3553161334046757e-01
+Lon		  3.9793506945470711e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 869
+Lat		  7.3553161334046757e-01
+Lon		  4.1189770347066172e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 870
+Lat		  8.4357580513059272e-01
+Lon		  3.8397243543875250e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 871
+Lat		  8.4357580513059272e-01
+Lon		  3.9793506945470711e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 872
+Lat		  8.4357580513059272e-01
+Lon		  4.1189770347066172e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 98
+NumPtsInRegion		 9
+
+PointNumber		 873
+Lat		  6.2748742155034243e-01
+Lon		  4.2586033748661638e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 874
+Lat		  6.2748742155034243e-01
+Lon		  4.3982297150257104e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 875
+Lat		  6.2748742155034243e-01
+Lon		  4.5378560551852569e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 876
+Lat		  7.3553161334046757e-01
+Lon		  4.2586033748661638e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 877
+Lat		  7.3553161334046757e-01
+Lon		  4.3982297150257104e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 878
+Lat		  7.3553161334046757e-01
+Lon		  4.5378560551852569e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 879
+Lat		  8.4357580513059272e-01
+Lon		  4.2586033748661638e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 880
+Lat		  8.4357580513059272e-01
+Lon		  4.3982297150257104e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 881
+Lat		  8.4357580513059272e-01
+Lon		  4.5378560551852569e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 99
+NumPtsInRegion		 9
+
+PointNumber		 882
+Lat		  6.2748742155034243e-01
+Lon		  4.6774823953448026e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 883
+Lat		  6.2748742155034243e-01
+Lon		  4.8171087355043491e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 884
+Lat		  6.2748742155034243e-01
+Lon		  4.9567350756638957e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 885
+Lat		  7.3553161334046757e-01
+Lon		  4.6774823953448026e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 886
+Lat		  7.3553161334046757e-01
+Lon		  4.8171087355043491e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 887
+Lat		  7.3553161334046757e-01
+Lon		  4.9567350756638957e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 888
+Lat		  8.4357580513059272e-01
+Lon		  4.6774823953448026e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 889
+Lat		  8.4357580513059272e-01
+Lon		  4.8171087355043491e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 890
+Lat		  8.4357580513059272e-01
+Lon		  4.9567350756638957e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 100
+NumPtsInRegion		 9
+
+PointNumber		 891
+Lat		  6.2748742155034243e-01
+Lon		  5.0963614158234414e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 892
+Lat		  6.2748742155034243e-01
+Lon		  5.2359877559829879e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 893
+Lat		  6.2748742155034243e-01
+Lon		  5.3756140961425345e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 894
+Lat		  7.3553161334046757e-01
+Lon		  5.0963614158234414e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 895
+Lat		  7.3553161334046757e-01
+Lon		  5.2359877559829879e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 896
+Lat		  7.3553161334046757e-01
+Lon		  5.3756140961425345e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 897
+Lat		  8.4357580513059272e-01
+Lon		  5.0963614158234414e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 898
+Lat		  8.4357580513059272e-01
+Lon		  5.2359877559829879e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 899
+Lat		  8.4357580513059272e-01
+Lon		  5.3756140961425345e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 101
+NumPtsInRegion		 9
+
+PointNumber		 900
+Lat		  6.2748742155034243e-01
+Lon		  5.5152404363020811e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 901
+Lat		  6.2748742155034243e-01
+Lon		  5.6548667764616276e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 902
+Lat		  6.2748742155034243e-01
+Lon		  5.7944931166211742e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 903
+Lat		  7.3553161334046757e-01
+Lon		  5.5152404363020811e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 904
+Lat		  7.3553161334046757e-01
+Lon		  5.6548667764616276e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 905
+Lat		  7.3553161334046757e-01
+Lon		  5.7944931166211742e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 906
+Lat		  8.4357580513059272e-01
+Lon		  5.5152404363020811e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 907
+Lat		  8.4357580513059272e-01
+Lon		  5.6548667764616276e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 908
+Lat		  8.4357580513059272e-01
+Lon		  5.7944931166211742e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 102
+NumPtsInRegion		 9
+
+PointNumber		 909
+Lat		  6.2748742155034243e-01
+Lon		  5.9341194567807198e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 910
+Lat		  6.2748742155034243e-01
+Lon		  6.0737457969402664e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 911
+Lat		  6.2748742155034243e-01
+Lon		  6.2133721370998130e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 912
+Lat		  7.3553161334046757e-01
+Lon		  5.9341194567807198e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 913
+Lat		  7.3553161334046757e-01
+Lon		  6.0737457969402664e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 914
+Lat		  7.3553161334046757e-01
+Lon		  6.2133721370998130e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 915
+Lat		  8.4357580513059272e-01
+Lon		  5.9341194567807198e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 916
+Lat		  8.4357580513059272e-01
+Lon		  6.0737457969402664e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 917
+Lat		  8.4357580513059272e-01
+Lon		  6.2133721370998130e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 103
+NumPtsInRegion		 9
+
+PointNumber		 918
+Lat		  9.5161999692071797e-01
+Lon		  1.0471975511965978e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 919
+Lat		  9.5161999692071797e-01
+Lon		  3.1415926535897931e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 920
+Lat		  9.5161999692071797e-01
+Lon		  5.2359877559829882e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 921
+Lat		  1.0596641887108431e+00
+Lon		  1.0471975511965978e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 922
+Lat		  1.0596641887108431e+00
+Lon		  3.1415926535897931e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 923
+Lat		  1.0596641887108431e+00
+Lon		  5.2359877559829882e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 924
+Lat		  1.1677083805009683e+00
+Lon		  1.0471975511965978e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 925
+Lat		  1.1677083805009683e+00
+Lon		  3.1415926535897931e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 926
+Lat		  1.1677083805009683e+00
+Lon		  5.2359877559829882e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 104
+NumPtsInRegion		 9
+
+PointNumber		 927
+Lat		  9.5161999692071797e-01
+Lon		  7.3303828583761843e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 928
+Lat		  9.5161999692071797e-01
+Lon		  9.4247779607693793e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 929
+Lat		  9.5161999692071797e-01
+Lon		  1.1519173063162575e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 930
+Lat		  1.0596641887108431e+00
+Lon		  7.3303828583761843e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 931
+Lat		  1.0596641887108431e+00
+Lon		  9.4247779607693793e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 932
+Lat		  1.0596641887108431e+00
+Lon		  1.1519173063162575e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 933
+Lat		  1.1677083805009683e+00
+Lon		  7.3303828583761843e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 934
+Lat		  1.1677083805009683e+00
+Lon		  9.4247779607693793e-01
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 935
+Lat		  1.1677083805009683e+00
+Lon		  1.1519173063162575e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 105
+NumPtsInRegion		 9
+
+PointNumber		 936
+Lat		  9.5161999692071797e-01
+Lon		  1.3613568165555769e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 937
+Lat		  9.5161999692071797e-01
+Lon		  1.5707963267948966e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 938
+Lat		  9.5161999692071797e-01
+Lon		  1.7802358370342162e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 939
+Lat		  1.0596641887108431e+00
+Lon		  1.3613568165555769e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 940
+Lat		  1.0596641887108431e+00
+Lon		  1.5707963267948966e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 941
+Lat		  1.0596641887108431e+00
+Lon		  1.7802358370342162e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 942
+Lat		  1.1677083805009683e+00
+Lon		  1.3613568165555769e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 943
+Lat		  1.1677083805009683e+00
+Lon		  1.5707963267948966e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 944
+Lat		  1.1677083805009683e+00
+Lon		  1.7802358370342162e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 106
+NumPtsInRegion		 9
+
+PointNumber		 945
+Lat		  9.5161999692071797e-01
+Lon		  1.9896753472735356e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 946
+Lat		  9.5161999692071797e-01
+Lon		  2.1991148575128552e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 947
+Lat		  9.5161999692071797e-01
+Lon		  2.4085543677521746e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 948
+Lat		  1.0596641887108431e+00
+Lon		  1.9896753472735356e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 949
+Lat		  1.0596641887108431e+00
+Lon		  2.1991148575128552e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 950
+Lat		  1.0596641887108431e+00
+Lon		  2.4085543677521746e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 951
+Lat		  1.1677083805009683e+00
+Lon		  1.9896753472735356e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 952
+Lat		  1.1677083805009683e+00
+Lon		  2.1991148575128552e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 953
+Lat		  1.1677083805009683e+00
+Lon		  2.4085543677521746e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 107
+NumPtsInRegion		 9
+
+PointNumber		 954
+Lat		  9.5161999692071797e-01
+Lon		  2.6179938779914944e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 955
+Lat		  9.5161999692071797e-01
+Lon		  2.8274333882308138e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 956
+Lat		  9.5161999692071797e-01
+Lon		  3.0368728984701332e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 957
+Lat		  1.0596641887108431e+00
+Lon		  2.6179938779914944e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 958
+Lat		  1.0596641887108431e+00
+Lon		  2.8274333882308138e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 959
+Lat		  1.0596641887108431e+00
+Lon		  3.0368728984701332e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 960
+Lat		  1.1677083805009683e+00
+Lon		  2.6179938779914944e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 961
+Lat		  1.1677083805009683e+00
+Lon		  2.8274333882308138e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 962
+Lat		  1.1677083805009683e+00
+Lon		  3.0368728984701332e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 108
+NumPtsInRegion		 9
+
+PointNumber		 963
+Lat		  9.5161999692071797e-01
+Lon		  3.2463124087094530e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 964
+Lat		  9.5161999692071797e-01
+Lon		  3.4557519189487724e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 965
+Lat		  9.5161999692071797e-01
+Lon		  3.6651914291880918e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 966
+Lat		  1.0596641887108431e+00
+Lon		  3.2463124087094530e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 967
+Lat		  1.0596641887108431e+00
+Lon		  3.4557519189487724e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 968
+Lat		  1.0596641887108431e+00
+Lon		  3.6651914291880918e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 969
+Lat		  1.1677083805009683e+00
+Lon		  3.2463124087094530e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 970
+Lat		  1.1677083805009683e+00
+Lon		  3.4557519189487724e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 971
+Lat		  1.1677083805009683e+00
+Lon		  3.6651914291880918e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 109
+NumPtsInRegion		 9
+
+PointNumber		 972
+Lat		  9.5161999692071797e-01
+Lon		  3.8746309394274117e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 973
+Lat		  9.5161999692071797e-01
+Lon		  4.0840704496667311e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 974
+Lat		  9.5161999692071797e-01
+Lon		  4.2935099599060509e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 975
+Lat		  1.0596641887108431e+00
+Lon		  3.8746309394274117e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 976
+Lat		  1.0596641887108431e+00
+Lon		  4.0840704496667311e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 977
+Lat		  1.0596641887108431e+00
+Lon		  4.2935099599060509e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 978
+Lat		  1.1677083805009683e+00
+Lon		  3.8746309394274117e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 979
+Lat		  1.1677083805009683e+00
+Lon		  4.0840704496667311e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 980
+Lat		  1.1677083805009683e+00
+Lon		  4.2935099599060509e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 110
+NumPtsInRegion		 9
+
+PointNumber		 981
+Lat		  9.5161999692071797e-01
+Lon		  4.5029494701453698e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 982
+Lat		  9.5161999692071797e-01
+Lon		  4.7123889803846897e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 983
+Lat		  9.5161999692071797e-01
+Lon		  4.9218284906240095e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 984
+Lat		  1.0596641887108431e+00
+Lon		  4.5029494701453698e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 985
+Lat		  1.0596641887108431e+00
+Lon		  4.7123889803846897e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 986
+Lat		  1.0596641887108431e+00
+Lon		  4.9218284906240095e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 987
+Lat		  1.1677083805009683e+00
+Lon		  4.5029494701453698e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 988
+Lat		  1.1677083805009683e+00
+Lon		  4.7123889803846897e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 989
+Lat		  1.1677083805009683e+00
+Lon		  4.9218284906240095e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 111
+NumPtsInRegion		 9
+
+PointNumber		 990
+Lat		  9.5161999692071797e-01
+Lon		  5.1312680008633285e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 991
+Lat		  9.5161999692071797e-01
+Lon		  5.3407075111026483e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 992
+Lat		  9.5161999692071797e-01
+Lon		  5.5501470213419681e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 993
+Lat		  1.0596641887108431e+00
+Lon		  5.1312680008633285e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 994
+Lat		  1.0596641887108431e+00
+Lon		  5.3407075111026483e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 995
+Lat		  1.0596641887108431e+00
+Lon		  5.5501470213419681e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 996
+Lat		  1.1677083805009683e+00
+Lon		  5.1312680008633285e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 997
+Lat		  1.1677083805009683e+00
+Lon		  5.3407075111026483e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 998
+Lat		  1.1677083805009683e+00
+Lon		  5.5501470213419681e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+RegionNumber		 112
+NumPtsInRegion		 9
+
+PointNumber		 999
+Lat		  9.5161999692071797e-01
+Lon		  5.7595865315812871e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 1000
+Lat		  9.5161999692071797e-01
+Lon		  5.9690260418206069e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 1001
+Lat		  9.5161999692071797e-01
+Lon		  6.1784655520599268e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 1002
+Lat		  1.0596641887108431e+00
+Lon		  5.7595865315812871e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 1003
+Lat		  1.0596641887108431e+00
+Lon		  5.9690260418206069e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 1004
+Lat		  1.0596641887108431e+00
+Lon		  6.1784655520599268e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 1005
+Lat		  1.1677083805009683e+00
+Lon		  5.7595865315812871e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 1006
+Lat		  1.1677083805009683e+00
+Lon		  5.9690260418206069e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+PointNumber		 1007
+Lat		  1.1677083805009683e+00
+Lon		  6.1784655520599268e+00
+Alt		  0.0000000000000000e+00
+NumberOfAccesses		 0
+
+
+
