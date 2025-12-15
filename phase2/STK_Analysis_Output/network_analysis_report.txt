@@ -1,0 +1,90 @@
+======================================================================
+SATELLITE COMMUNICATION NETWORK ANALYSIS REPORT
+======================================================================
+
+Scenario: MultiLayer_SatComm
+Analysis Period: 1 Jan 2025 00:00:00.000 to 2 Jan 2025 00:00:00.000
+
+Network Components:
+  Satellites: 2
+  Ground Stations: 3
+  Aircraft: 2
+
+----------------------------------------------------------------------
+ACCESS ANALYSIS RESULTS
+----------------------------------------------------------------------
+
+
+LEO_Sat_1-GS_NewYork:
+  Number of access periods: 6
+  Total access time: 3587.42 seconds (1.00 hours)
+  Average access duration: 597.90 seconds
+
+LEO_Sat_1-GS_London:
+  Number of access periods: 7
+  Total access time: 4473.68 seconds (1.24 hours)
+  Average access duration: 639.10 seconds
+
+LEO_Sat_1-GS_Tokyo:
+  Number of access periods: 5
+  Total access time: 3133.79 seconds (0.87 hours)
+  Average access duration: 626.76 seconds
+
+LEO_Sat_2-GS_NewYork:
+  Number of access periods: 6
+  Total access time: 3471.47 seconds (0.96 hours)
+  Average access duration: 578.58 seconds
+
+LEO_Sat_2-GS_London:
+  Number of access periods: 7
+  Total access time: 4511.07 seconds (1.25 hours)
+  Average access duration: 644.44 seconds
+
+LEO_Sat_2-GS_Tokyo:
+  Number of access periods: 4
+  Total access time: 2878.16 seconds (0.80 hours)
+  Average access duration: 719.54 seconds
+
+LEO_Sat_1-Flight_AA100:
+  Number of access periods: 1
+  Total access time: 10.28 seconds (0.00 hours)
+  Average access duration: 10.28 seconds
+
+LEO_Sat_1-Flight_BA200:
+  No access periods found
+
+LEO_Sat_2-Flight_AA100:
+  Number of access periods: 1
+  Total access time: 8.36 seconds (0.00 hours)
+  Average access duration: 8.36 seconds
+
+LEO_Sat_2-Flight_BA200:
+  Number of access periods: 1
+  Total access time: 11.37 seconds (0.00 hours)
+  Average access duration: 11.37 seconds
+
+Flight_AA100-GS_NewYork:
+  Number of access periods: 1
+  Total access time: 10.28 seconds (0.00 hours)
+  Average access duration: 10.28 seconds
+
+Flight_BA200-GS_NewYork:
+  Number of access periods: 1
+  Total access time: 11.37 seconds (0.00 hours)
+  Average access duration: 11.37 seconds
+
+Flight_AA100-GS_London:
+  Number of access periods: 1
+  Total access time: 10.28 seconds (0.00 hours)
+  Average access duration: 10.28 seconds
+
+Flight_BA200-GS_London:
+  Number of access periods: 1
+  Total access time: 11.37 seconds (0.00 hours)
+  Average access duration: 11.37 seconds
+
+Flight_AA100-GS_Tokyo:
+  No access periods found
+
+Flight_BA200-GS_Tokyo:
+  No access periods found
