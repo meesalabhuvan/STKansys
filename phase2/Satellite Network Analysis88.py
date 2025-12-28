@@ -1,6 +1,5 @@
 """
 Satellite Communication Network Analysis using Python and STK
-This project analyzes access between satellites, ground stations, and aircraft
 """
 
 from agi.stk12.stkdesktop import STKDesktop
@@ -22,7 +21,7 @@ class SatelliteNetworkAnalyzer:
         self.stk = STKDesktop.StartApplication(visible=True)
         self.root = self.stk.Root
         
-        # Make STK window visible and bring to front
+        # Make STK window visible 
         self.stk.Visible = True
         
         self.scenario_name = scenario_name
@@ -45,7 +44,7 @@ class SatelliteNetworkAnalyzer:
         # Parse start time (STK format: "1 Jan 2025 00:00:00.000")
         start_dt = datetime.strptime(start_time, "%d %b %Y %H:%M:%S.%f")
         stop_dt = start_dt + timedelta(hours=duration_hours)
-        stop_time = stop_dt.strftime("%d %b %Y %H:%M:%S.%f")[:-3]  # Remove last 3 decimals
+        stop_time = stop_dt.strftime("%d %b %Y %H:%M:%S.%f")[:-3] 
         
         # Set time period
         self.scenario.SetTimePeriod(start_time, stop_time)
@@ -584,10 +583,7 @@ def main():
     except KeyboardInterrupt:
         print("\n\nExiting Python script. STK scenario remains open.")
         print("You can continue working in STK or close it manually.")
-    
-    # Don't close so user can inspect
-    # analyzer.close()
-
 
 if __name__ == "__main__":
+
     main()
